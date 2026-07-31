@@ -1,0 +1,1001 @@
+employee_id,name,department,role,job_level,hire_date,tenure_years,salary,performance_rating,attrition_flag,exit_date,bench_days,utilization_status,project_id,monthly_ctc,bench_cost_incurred,replacement_cost_estimate
+EMP1000,Tanya Armstrong,HR,Consultant,L4,2025-02-05,1.48,704807,Low,0,,7,Billed,PRJ101,58733,18975,563845
+EMP1001,Sara Melendez,Finance,Consultant,L4,2022-02-10,4.47,753862,Average,0,,23,Bench,,62821,66687,980020
+EMP1002,Kristen Powell,Sales,Analyst,L5,2023-11-21,2.69,722281,High,0,,8,Training,PRJ115,60190,22224,1300105
+EMP1003,Alexander Weaver,Finance,Senior Analyst,L2,2024-01-04,2.57,640802,Average,0,,31,Bench,,53400,76403,833042
+EMP1004,Brian Walker,Finance,Consultant,L2,2022-10-01,3.83,914556,High,0,,35,Bench,,76213,123113,1646200
+EMP1005,Angela Bridges,Consulting,Manager,L1,2024-11-20,1.69,650714,Average,0,,2,Billed,PRJ108,54226,5005,845928
+EMP1006,Leon Griffin,Sales,Manager,L2,2020-12-25,5.6,981137,Average,0,,18,Bench,,81761,67924,1275478
+EMP1007,Steven Preston,Sales,Senior Manager,L2,2021-03-29,5.34,884928,Low,0,,17,Bench,,73744,57860,707942
+EMP1008,Matthew Bullock,Sales,Manager,L5,2025-02-21,1.44,828315,Average,0,,11,Billed,PRJ143,69026,35044,1076809
+EMP1009,Luis Osborn,Finance,Senior Manager,L4,2026-06-01,0.16,627730,Average,0,,67,Bench,,52310,161761,816049
+EMP1010,Christopher Baxter,HR,Analyst,L4,2019-01-13,7.55,726968,Low,0,,43,Bench,,60580,120229,581574
+EMP1011,Rebecca Johnson,Sales,Analyst,L5,2023-12-06,2.65,1126617,Average,0,,29,Bench,,93884,125661,1464602
+EMP1012,Justin Shelton,Operations,Analyst,L2,2023-04-15,3.3,1050275,Average,1,2023-06-26,31,Bench,,87522,125225,1365357
+EMP1013,John Wagner,Finance,Senior Analyst,L5,2024-03-05,2.41,606733,Average,0,,15,Billed,PRJ137,50561,35003,788752
+EMP1014,Jeremiah Church,Consulting,Senior Analyst,L1,2025-08-31,0.92,929799,High,0,,63,Bench,,77483,225297,1673638
+EMP1015,Christopher Williams,HR,Senior Manager,L4,2025-01-26,1.51,1125416,High,0,,29,Bench,,93784,125527,2025748
+EMP1016,Sarah Evans,Operations,Manager,L3,2024-05-05,2.24,399178,Average,1,2025-02-20,32,Bench,,33264,49129,518931
+EMP1017,Frank Flores,Operations,Manager,L1,2018-10-06,7.82,1063008,Average,0,,49,Bench,,88584,200336,1381910
+EMP1018,Thomas Washington,Consulting,Analyst,L1,2023-04-13,3.3,701212,Average,0,,8,Training,PRJ102,58434,21575,911575
+EMP1019,Brian Warner,HR,Consultant,L5,2024-06-29,2.09,1071179,High,0,,41,Bench,,89264,168916,1928122
+EMP1020,Eric Schultz,Finance,Senior Analyst,L2,2020-12-23,5.61,671022,Low,0,,5,Billed,PRJ105,55918,12904,536817
+EMP1021,Michael Butler,Engineering,Senior Analyst,L4,2024-10-20,1.78,358535,Average,0,,10,Billed,PRJ114,29877,13789,466095
+EMP1022,Gregory Austin,HR,Analyst,L3,2025-02-13,1.46,411737,High,0,,10,Billed,PRJ135,34311,15836,741126
+EMP1023,Alexander Scott,Consulting,Senior Analyst,L1,2019-05-26,7.19,914425,Average,0,,96,Bench,,76202,337633,1188752
+EMP1024,Joshua Cabrera,Operations,Analyst,L3,2025-05-06,1.24,977916,Average,0,,48,Bench,,81493,180538,1271290
+EMP1025,Jason Maldonado,Finance,Senior Manager,L2,2025-09-23,0.85,628705,Average,0,,30,Bench,,52392,72542,817316
+EMP1026,Ashley Roach,HR,Manager,L2,2025-02-26,1.42,1091577,Average,0,,32,Bench,,90964,134347,1419050
+EMP1027,Joseph Evans,Engineering,Consultant,L3,2018-10-22,7.78,401543,Average,0,,20,Bench,,33461,30887,522005
+EMP1028,Lindsay Mcdaniel,Engineering,Manager,L4,2023-06-09,3.15,880176,Average,0,,73,Bench,,73348,247126,1144228
+EMP1029,Jonathon Bush,Sales,Manager,L2,2023-02-12,3.47,536695,Low,0,,17,Bench,,44724,35091,429356
+EMP1030,Anna Meyers,Sales,Senior Manager,L3,2023-08-15,2.96,704449,Low,1,2025-07-11,11,Billed,PRJ145,58704,29803,563559
+EMP1031,Sarah Vang,Consulting,Senior Analyst,L1,2026-02-10,0.47,914219,High,0,,4,Training,PRJ114,76184,14064,1645594
+EMP1032,Lindsay Hughes,HR,Consultant,L3,2021-11-27,4.68,641875,Average,0,,38,Bench,,53489,93812,834437
+EMP1033,Yvonne Gonzalez,HR,Senior Analyst,L3,2022-05-24,4.19,784633,Average,0,,33,Bench,,65386,99588,1020022
+EMP1034,Lindsay Johnson,Operations,Manager,L5,2020-03-24,6.36,1201887,Average,0,,12,Training,PRJ137,100157,55471,1562453
+EMP1035,Ryan Sanders,Operations,Analyst,L2,2019-08-24,6.94,726932,High,0,,0,Training,PRJ100,60577,0,1308477
+EMP1036,Jason Conner,Operations,Manager,L4,2025-09-30,0.83,1150707,Average,0,,45,Bench,,95892,199160,1495919
+EMP1037,Benjamin Howard,Sales,Senior Analyst,L4,2022-10-30,3.75,561087,Average,0,,0,Billed,PRJ144,46757,0,729413
+EMP1038,Valerie Bryan,HR,Manager,L5,2024-10-14,1.79,1058941,High,0,,30,Bench,,88245,122185,1906093
+EMP1039,Erin Adams,HR,Analyst,L4,2021-08-21,4.95,1332470,High,0,,87,Bench,,111039,445864,2398446
+EMP1040,Margaret Robinson,Engineering,Senior Manager,L3,2019-07-04,7.08,300000,Average,0,,14,Training,PRJ121,25000,16153,390000
+EMP1041,Dawn Cook,Sales,Senior Analyst,L5,2022-11-05,3.74,660931,High,0,,6,Training,PRJ109,55077,15252,1189675
+EMP1042,Glenn Dyer,Finance,Manager,L1,2021-04-29,5.26,1073121,Average,0,,30,Bench,,89426,123821,1395057
+EMP1043,Casey Warren,Sales,Senior Analyst,L2,2019-10-06,6.82,839086,Average,0,,42,Bench,,69923,135544,1090811
+EMP1044,David Rowe,Finance,Senior Manager,L2,2024-06-15,2.13,1011343,Low,1,2024-12-10,19,Bench,,84278,73905,809074
+EMP1045,Sarah Sheppard,Engineering,Manager,L2,2020-08-20,5.95,718804,Low,1,2023-07-14,85,Bench,,59900,234993,575043
+EMP1046,Rachel Holloway,Consulting,Manager,L3,2023-04-05,3.32,925976,Average,0,,1,Billed,PRJ148,77164,3561,1203768
+EMP1047,Yvonne Kim,HR,Senior Analyst,L1,2023-08-27,2.93,853296,Average,0,,17,Bench,,71108,55792,1109284
+EMP1048,Diana Peters,Engineering,Senior Analyst,L5,2021-08-03,4.99,1250334,Average,0,,31,Bench,,104194,149078,1625434
+EMP1049,Jason Spencer,HR,Analyst,L5,2025-07-27,1.01,976326,Average,0,,49,Bench,,81360,183999,1269223
+EMP1050,Brooke Shepard,Operations,Senior Manager,L2,2023-04-12,3.3,1001280,High,0,,4,Training,PRJ106,83440,15404,1802304
+EMP1051,Martin Williams,Consulting,Analyst,L1,2025-05-22,1.19,776436,Average,0,,40,Bench,,64703,119451,1009366
+EMP1052,Christopher Johnson,Consulting,Manager,L1,2020-08-30,5.92,753718,Average,0,,20,Bench,,62809,57978,979833
+EMP1053,Amanda Chavez,Engineering,Senior Analyst,L1,2025-09-26,0.84,770232,Low,0,,12,Billed,PRJ124,64186,35549,616185
+EMP1054,Richard Mosley,Consulting,Manager,L4,2023-07-14,3.05,1018335,High,0,,3,Billed,PRJ122,84861,11750,1833003
+EMP1055,Dr. Maria Mathis,Finance,Manager,L4,2019-09-18,6.87,773704,Average,0,,50,Bench,,64475,148789,1005815
+EMP1056,Kristen Moore,Consulting,Consultant,L2,2025-05-19,1.2,986932,High,0,,4,Training,PRJ138,82244,15183,1776477
+EMP1057,Angel Arellano,HR,Consultant,L1,2022-11-11,3.72,1522620,Low,0,,9,Training,PRJ102,126885,52706,1218096
+EMP1058,Jessica Hampton,HR,Manager,L1,2025-01-06,1.56,1161337,Low,0,,8,Training,PRJ134,96778,35733,929069
+EMP1059,Kristen Williams,HR,Senior Analyst,L5,2023-03-17,3.38,802192,Average,0,,51,Bench,,66849,157353,1042849
+EMP1060,Donna Mcintyre,HR,Manager,L5,2023-02-14,3.46,1260364,Average,0,,27,Bench,,105030,130883,1638473
+EMP1061,Jacob Fields,Finance,Consultant,L2,2019-10-05,6.82,777577,Average,0,,39,Bench,,64798,116636,1010850
+EMP1062,Jennifer Underwood,Sales,Senior Analyst,L1,2026-04-22,0.27,300000,High,0,,7,Billed,PRJ124,25000,8076,540000
+EMP1063,Roy White,Operations,Manager,L2,2019-07-04,7.08,597574,Average,0,,24,Bench,,49797,55160,776846
+EMP1064,Mark Osborne,Engineering,Senior Manager,L5,2019-12-27,6.6,338762,Average,0,,21,Bench,,28230,27361,440390
+EMP1065,David Lewis,HR,Senior Manager,L5,2020-05-11,6.22,794545,High,0,,44,Bench,,66212,134461,1430181
+EMP1066,Jonathan Ingram,Consulting,Manager,L4,2022-01-12,4.55,905525,Average,0,,59,Bench,,75460,205484,1177182
+EMP1067,Sarah Zamora,HR,Senior Analyst,L2,2022-09-22,3.86,1402931,High,0,,0,Billed,PRJ135,116910,0,2525275
+EMP1068,Sandra Moore,Consulting,Manager,L2,2026-05-22,0.19,998078,Low,0,,28,Bench,,83173,107485,798462
+EMP1069,Jesse Rogers,Operations,Manager,L1,2020-06-12,6.14,834269,Average,0,,1,Training,PRJ140,69522,3208,1084549
+EMP1070,Jerry Zamora,Operations,Consultant,L1,2022-01-21,4.53,1148821,Low,0,,19,Bench,,95735,83952,919056
+EMP1071,Jessica Lopez,Operations,Senior Manager,L4,2026-05-20,0.2,300000,Low,0,,8,Training,PRJ136,25000,9230,240000
+EMP1072,Joshua Anderson,Consulting,Consultant,L3,2022-01-04,4.57,970684,High,0,,9,Billed,PRJ145,80890,33600,1747231
+EMP1073,Holly Mccullough,HR,Consultant,L3,2026-05-14,0.21,1131259,Low,0,,10,Billed,PRJ102,94271,43509,905007
+EMP1074,Casey Owens,Operations,Manager,L3,2021-08-13,4.97,456424,Average,0,,24,Bench,,38035,42131,593351
+EMP1075,Alyssa Taylor,Finance,Consultant,L2,2022-05-04,4.24,1243126,Average,0,,10,Billed,PRJ149,103593,47812,1616063
+EMP1076,Christopher Hill,Consulting,Senior Manager,L2,2021-06-10,5.14,1001548,Average,0,,32,Bench,,83462,123267,1302012
+EMP1077,Paul Brooks,Consulting,Consultant,L5,2025-02-11,1.47,775413,High,0,,12,Training,PRJ105,64617,35788,1395743
+EMP1078,Noah Watson,HR,Senior Manager,L2,2020-03-15,6.38,1089834,Low,0,,1,Billed,PRJ106,90819,4191,871867
+EMP1079,Ross Wright,Consulting,Consultant,L2,2022-12-01,3.67,1581207,Average,0,,38,Bench,,131767,231099,2055569
+EMP1080,Nicholas Jimenez DVM,Consulting,Senior Manager,L2,2023-04-29,3.26,954559,High,0,,8,Training,PRJ117,79546,29371,1718206
+EMP1081,Mary Barnes,Operations,Consultant,L4,2019-09-02,6.92,974466,Average,0,,14,Training,PRJ140,81205,52471,1266805
+EMP1082,Sharon Hurst,HR,Consultant,L2,2023-02-01,3.5,762191,High,0,,28,Bench,,63515,82082,1371943
+EMP1083,Kristen Phillips,Operations,Senior Analyst,L1,2018-10-12,7.81,645046,Low,1,2025-08-19,10,Training,PRJ110,53753,24809,516036
+EMP1084,Jerome Mcintosh,Operations,Senior Manager,L1,2018-10-17,7.79,1149100,Average,0,,1,Training,PRJ122,95758,4419,1493830
+EMP1085,Nicholas Mills,HR,Senior Manager,L5,2021-04-20,5.28,643174,Average,0,,11,Billed,PRJ142,53597,27211,836126
+EMP1086,Sarah Morrison,Engineering,Senior Manager,L4,2025-05-10,1.22,921469,Average,0,,72,Bench,,76789,255176,1197909
+EMP1087,Stephanie King,Operations,Analyst,L1,2023-08-27,2.93,756702,High,0,,25,Bench,,63058,72759,1362063
+EMP1088,Robert Washington,Finance,Consultant,L4,2020-04-04,6.33,1043693,Average,0,,27,Bench,,86974,108383,1356800
+EMP1089,Bonnie Preston,Finance,Senior Manager,L4,2024-09-20,1.86,1000098,Average,0,,25,Bench,,83341,96163,1300127
+EMP1090,Christy Miller,Consulting,Analyst,L5,2023-09-08,2.9,1211261,Average,0,,5,Training,PRJ144,100938,23293,1574639
+EMP1091,Daniel Moss,Finance,Senior Analyst,L4,2025-09-16,0.87,746995,Average,0,,13,Billed,PRJ138,62249,37349,971093
+EMP1092,Brenda Peck,Consulting,Senior Manager,L2,2021-12-21,4.61,819037,Average,0,,34,Bench,,68253,107104,1064748
+EMP1093,Jennifer Carpenter,Engineering,Senior Manager,L4,2023-02-15,3.46,606370,High,1,2024-07-26,2,Billed,PRJ134,50530,4664,1091466
+EMP1094,Nicholas Rice,HR,Analyst,L5,2025-07-20,1.03,766712,Average,0,,8,Billed,PRJ110,63892,23591,996725
+EMP1095,Steve Miller,HR,Consultant,L5,2023-08-02,3.0,1013190,Average,1,2024-06-17,8,Training,PRJ124,84432,31175,1317147
+EMP1096,Michael Miles,HR,Senior Analyst,L5,2021-03-22,5.36,1127096,Low,1,2023-12-14,14,Training,PRJ140,93924,60689,901676
+EMP1097,Patrick Riggs,Finance,Senior Manager,L1,2024-03-17,2.37,623350,Average,0,,98,Bench,,51945,234955,810355
+EMP1098,Molly Wyatt,Engineering,Consultant,L2,2022-05-29,4.18,1160881,Average,0,,1,Billed,PRJ143,96740,4464,1509145
+EMP1099,Barbara Mclean,Finance,Senior Analyst,L1,2020-04-27,6.26,1306691,Average,0,,18,Bench,,108890,90463,1698698
+EMP1100,William Walker,Finance,Manager,L3,2018-08-06,7.99,1024030,High,0,,4,Training,PRJ149,85335,15754,1843254
+EMP1101,Joseph Johnson,Engineering,Manager,L2,2025-05-04,1.24,1463038,Average,0,,88,Bench,,121919,495182,1901949
+EMP1102,Deborah Miller,Engineering,Senior Analyst,L4,2026-05-08,0.23,667863,Average,0,,3,Billed,PRJ114,55655,7706,868221
+EMP1103,Eric Garcia,Engineering,Analyst,L5,2023-05-25,3.19,526603,Low,0,,12,Billed,PRJ120,43883,24304,421282
+EMP1104,Timothy Trevino,Engineering,Senior Analyst,L3,2020-02-06,6.48,366383,High,0,,33,Bench,,30531,46502,659489
+EMP1105,Lisa White,HR,Senior Analyst,L2,2024-10-01,1.83,1348813,Average,0,,30,Bench,,112401,155632,1753456
+EMP1106,Michael Kirk,Sales,Analyst,L1,2025-09-19,0.86,1096309,Low,0,,13,Training,PRJ117,91359,54815,877047
+EMP1107,Tyler Moore,Sales,Analyst,L5,2019-06-01,7.17,883324,Average,0,,10,Billed,PRJ113,73610,33974,1148321
+EMP1108,James Reynolds,Engineering,Consultant,L1,2022-05-18,4.21,983990,Average,0,,12,Training,PRJ113,81999,45414,1279187
+EMP1109,James Perkins,Sales,Consultant,L2,2025-03-04,1.41,562353,Low,0,,7,Training,PRJ125,46862,15140,449882
+EMP1110,Anna Wilson,Sales,Analyst,L2,2023-07-14,3.05,1633725,Average,0,,5,Training,PRJ109,136143,31417,2123842
+EMP1111,Janet Williams,Engineering,Manager,L3,2025-04-29,1.25,938766,Average,0,,16,Bench,,78230,57770,1220395
+EMP1112,Marissa Frazier,Sales,Manager,L4,2024-10-17,1.79,932818,Average,0,,7,Training,PRJ108,77734,25114,1212663
+EMP1113,Alex Dickerson,Finance,Senior Analyst,L1,2020-03-13,6.39,1117729,High,0,,8,Billed,PRJ147,93144,34391,2011912
+EMP1114,Elizabeth Soto,Consulting,Senior Manager,L3,2021-12-07,4.65,1044302,High,0,,26,Bench,,87025,104430,1879743
+EMP1115,Willie Lambert,Consulting,Senior Analyst,L5,2021-10-28,4.76,967165,Average,0,,86,Bench,,80597,319908,1257314
+EMP1116,Brad Cunningham,Engineering,Senior Analyst,L4,2026-02-24,0.43,662857,Average,0,,23,Bench,,55238,58637,861714
+EMP1117,Michele Parker,HR,Senior Manager,L3,2023-04-17,3.29,1041440,Average,0,,2,Training,PRJ147,86786,8011,1353872
+EMP1118,Adrian Bolton,Engineering,Analyst,L1,2024-11-30,1.67,1464607,Average,0,,1,Training,PRJ137,122050,5633,1903989
+EMP1119,Steven Washington,HR,Manager,L2,2026-06-19,0.12,1303626,Average,1,2026-07-03,75,Bench,,108635,376045,1694713
+EMP1120,Joshua Perez,Consulting,Senior Analyst,L5,2022-05-26,4.18,1377955,Low,0,,8,Training,PRJ123,114829,42398,1102364
+EMP1121,Ashley Blackwell,Engineering,Senior Manager,L1,2024-07-02,2.08,746635,Average,0,,2,Billed,PRJ108,62219,5743,970625
+EMP1122,Terry Hernandez,Operations,Consultant,L4,2025-11-24,0.68,603118,High,0,,22,Bench,,50259,51033,1085612
+EMP1123,Amanda Ingram,Finance,Senior Analyst,L4,2024-11-30,1.67,862263,Average,0,,24,Bench,,71855,79593,1120941
+EMP1124,Elizabeth Barnes,Sales,Manager,L2,2022-06-11,4.14,916717,Low,1,2022-12-19,26,Bench,,76393,91671,733373
+EMP1125,Sabrina Rich,HR,Analyst,L2,2019-09-19,6.87,1228257,High,0,,7,Training,PRJ105,102354,33068,2210862
+EMP1126,David Jackson,Operations,Senior Analyst,L5,2023-10-19,2.78,392260,Average,0,,0,Billed,PRJ107,32688,0,509938
+EMP1127,Julie Burns,Sales,Senior Analyst,L5,2020-05-13,6.22,1358865,Average,1,2023-01-06,83,Bench,,113238,433791,1766524
+EMP1128,Eric Hodges,Sales,Senior Manager,L2,2024-11-08,1.73,852597,Average,0,,7,Billed,PRJ140,71049,22954,1108376
+EMP1129,Stephanie Yang,Engineering,Consultant,L2,2022-11-15,3.71,771935,Average,0,,28,Bench,,64327,83131,1003515
+EMP1130,Andrew Mckinney,Sales,Consultant,L4,2025-01-15,1.54,596368,High,0,,30,Bench,,49697,68811,1073462
+EMP1131,James Dorsey,Finance,Analyst,L2,2020-10-10,5.81,403542,Average,0,,23,Bench,,33628,35697,524604
+EMP1132,Thomas Price,Operations,Manager,L3,2018-11-29,7.67,1146951,Average,0,,9,Billed,PRJ143,95579,39702,1491036
+EMP1133,Molly Thornton,Sales,Analyst,L1,2026-02-03,0.49,921995,High,0,,7,Training,PRJ138,76832,24822,1659591
+EMP1134,Tracy Clark,Engineering,Senior Analyst,L2,2022-11-02,3.75,513011,High,0,,22,Bench,,42750,43408,923419
+EMP1135,Matthew Lucas,Finance,Senior Analyst,L5,2026-04-18,0.28,511476,High,0,,50,Bench,,42623,98360,920656
+EMP1136,Maria Browning,Consulting,Consultant,L3,2023-01-01,3.58,799264,Average,0,,73,Bench,,66605,224408,1039043
+EMP1137,Alison Gutierrez,Operations,Manager,L5,2020-02-28,6.42,1400706,Average,0,,2,Billed,PRJ124,116725,10774,1820917
+EMP1138,Jorge Stephens,Sales,Senior Manager,L3,2025-10-22,0.77,822122,High,0,,4,Training,PRJ138,68510,12648,1479819
+EMP1139,Gavin Wood,Engineering,Manager,L2,2025-12-24,0.6,449057,High,0,,72,Bench,,37421,124354,808302
+EMP1140,Jeremy Johnson,Consulting,Senior Analyst,L1,2021-08-21,4.95,826277,Low,0,,33,Bench,,68856,104873,661021
+EMP1141,Tracy Roach,Consulting,Senior Manager,L5,2024-01-17,2.54,818182,Low,0,,53,Bench,,68181,166783,654545
+EMP1142,Connor Hawkins,HR,Manager,L3,2020-02-03,6.49,300000,Average,0,,5,Training,PRJ133,25000,5769,390000
+EMP1143,Andre Allen,Finance,Manager,L4,2019-12-10,6.64,883711,High,0,,22,Bench,,73642,74775,1590679
+EMP1144,Heather Reyes,Sales,Senior Manager,L2,2023-10-05,2.82,830719,Average,0,,30,Bench,,69226,95852,1079934
+EMP1145,Heidi Henry,Engineering,Senior Analyst,L1,2021-10-29,4.76,1108861,Average,0,,28,Bench,,92405,119415,1441519
+EMP1146,Jon Williams,HR,Manager,L2,2019-08-03,7.0,1454686,Low,0,,13,Training,PRJ135,121223,72734,1163748
+EMP1147,Scott Torres,Finance,Senior Manager,L4,2019-03-14,7.39,1237969,Average,0,,0,Billed,PRJ143,103164,0,1609359
+EMP1148,Debra Hall,HR,Senior Analyst,L1,2020-12-24,5.6,819333,High,0,,21,Bench,,68277,66176,1474799
+EMP1149,Shannon Mcgrath,Operations,Senior Manager,L4,2023-03-29,3.34,568042,Average,0,,7,Billed,PRJ143,47336,15293,738454
+EMP1150,Kelsey Nelson,Finance,Senior Manager,L2,2019-05-08,7.24,1672007,High,0,,14,Training,PRJ149,139333,90031,3009612
+EMP1151,Peter Ortiz,Finance,Manager,L3,2024-08-06,1.98,917765,High,0,,79,Bench,,76480,278859,1651977
+EMP1152,Carol Wright,Sales,Senior Analyst,L2,2019-05-09,7.23,904178,Average,0,,12,Training,PRJ107,75348,41731,1175431
+EMP1153,Jennifer Turner,Finance,Manager,L2,2023-04-13,3.3,892762,Average,1,2026-01-18,45,Bench,,74396,154516,1160590
+EMP1154,Brian Howard,HR,Analyst,L2,2023-02-07,3.48,959425,Average,0,,5,Training,PRJ127,79952,18450,1247252
+EMP1155,Kimberly Curry,Finance,Analyst,L5,2020-05-11,6.22,856691,High,0,,27,Bench,,71390,88964,1542043
+EMP1156,Valerie Smith,Sales,Senior Analyst,L4,2022-03-14,4.38,727901,Average,0,,94,Bench,,60658,263164,946271
+EMP1157,Teresa Neal,Sales,Senior Manager,L4,2019-02-16,7.46,735942,Average,0,,2,Billed,PRJ129,61328,5661,956724
+EMP1158,Tracy Small,Operations,Manager,L4,2026-06-09,0.14,890174,High,0,,0,Billed,PRJ146,74181,0,1602313
+EMP1159,Rachael Ryan,HR,Manager,L5,2024-09-09,1.89,736972,Average,0,,14,Training,PRJ132,61414,39683,958063
+EMP1160,William Palmer,Consulting,Senior Analyst,L3,2024-11-14,1.71,686146,High,0,,2,Billed,PRJ132,57178,5278,1235062
+EMP1161,Eric Stewart,Consulting,Senior Analyst,L2,2018-12-29,7.59,931929,Average,0,,34,Bench,,77660,121867,1211507
+EMP1162,Jacqueline Jacobs,Finance,Analyst,L3,2020-01-16,6.54,823506,Average,0,,61,Bench,,68625,193207,1070557
+EMP1163,Thomas Keith,Operations,Consultant,L5,2025-02-04,1.48,1351197,Average,0,,14,Billed,PRJ140,112599,72756,1756556
+EMP1164,Andrea Ruiz,Engineering,Senior Analyst,L4,2024-07-12,2.05,300000,High,0,,7,Training,PRJ140,25000,8076,540000
+EMP1165,Logan Gomez,Finance,Consultant,L2,2024-06-27,2.09,1227452,Average,0,,14,Billed,PRJ109,102287,66093,1595687
+EMP1166,Michael Moore,Operations,Senior Analyst,L1,2026-06-28,0.09,1273825,High,1,2026-07-03,32,Bench,,106152,156778,2292885
+EMP1167,Wendy Brown DVM,HR,Senior Manager,L1,2024-09-26,1.84,300000,High,0,,0,Training,PRJ148,25000,0,540000
+EMP1168,Amanda Mcbride,HR,Senior Manager,L3,2020-12-02,5.66,797193,Average,0,,22,Bench,,66432,67454,1036350
+EMP1169,Tammy Lopez,HR,Analyst,L4,2020-11-28,5.67,788567,High,0,,23,Bench,,65713,69757,1419420
+EMP1170,Robert Moody,HR,Analyst,L1,2019-10-16,6.79,477746,Low,0,,25,Bench,,39812,45937,382196
+EMP1171,Sierra Ramirez,HR,Consultant,L3,2022-12-15,3.63,666654,Average,0,,6,Billed,PRJ134,55554,15384,866650
+EMP1172,Krista Gomez,Operations,Senior Analyst,L5,2025-07-01,1.08,566827,Average,0,,31,Bench,,47235,67583,736875
+EMP1173,David Hopkins,Operations,Manager,L3,2021-04-06,5.32,1425681,High,0,,2,Billed,PRJ138,118806,10966,2566225
+EMP1174,Ethan Johnston,Sales,Analyst,L3,2020-10-18,5.79,1180703,Average,0,,5,Training,PRJ131,98391,22705,1534913
+EMP1175,Ronald Edwards,Consulting,Manager,L3,2026-01-05,0.57,1281466,Average,0,,52,Bench,,106788,256293,1665905
+EMP1176,Kevin Sullivan,HR,Manager,L2,2023-11-15,2.71,1116501,Average,1,2026-06-10,33,Bench,,93041,141709,1451451
+EMP1177,James Sims,Engineering,Senior Analyst,L3,2022-02-12,4.47,561284,Average,0,,0,Billed,PRJ107,46773,0,729669
+EMP1178,Lisa Smith,Operations,Consultant,L3,2022-09-01,3.92,742643,Low,0,,7,Training,PRJ119,61886,19994,594114
+EMP1179,John Rosales,Engineering,Senior Analyst,L2,2018-12-30,7.59,1046812,High,0,,6,Billed,PRJ103,87234,24157,1884261
+EMP1180,Melissa Wood,Engineering,Analyst,L2,2020-01-21,6.53,533361,High,0,,7,Billed,PRJ136,44446,14359,960049
+EMP1181,Leslie Dixon,Engineering,Manager,L5,2023-12-10,2.64,1113899,Average,0,,7,Billed,PRJ105,92824,29989,1448068
+EMP1182,Kevin Moran,Sales,Senior Analyst,L4,2021-08-04,4.99,827902,High,0,,1,Training,PRJ104,68991,3184,1490223
+EMP1183,Toni Jones,Operations,Senior Analyst,L1,2026-04-17,0.29,787553,Average,0,,15,Billed,PRJ108,65629,45435,1023818
+EMP1184,Samuel Mcgrath,Engineering,Senior Analyst,L1,2025-10-07,0.81,1113287,High,0,,32,Bench,,92773,137019,2003916
+EMP1185,Tracy Arnold,HR,Analyst,L3,2025-01-21,1.52,1033278,Average,0,,23,Bench,,86106,91405,1343261
+EMP1186,Melissa Jones,Finance,Consultant,L5,2024-03-14,2.38,791710,Average,0,,27,Bench,,65975,82216,1029223
+EMP1187,Christina Mejia MD,Engineering,Senior Analyst,L3,2024-01-08,2.56,1247798,Average,0,,2,Training,PRJ135,103983,9598,1622137
+EMP1188,Martha Johnson,Sales,Analyst,L1,2021-06-27,5.1,575681,High,0,,75,Bench,,47973,166061,1036225
+EMP1189,Justin Garza,Operations,Manager,L2,2025-01-09,1.56,1084780,Average,0,,45,Bench,,90398,187750,1410214
+EMP1190,Dean Morgan,Sales,Senior Manager,L4,2024-03-14,2.38,1077930,Average,0,,40,Bench,,89827,165835,1401309
+EMP1191,Carolyn Torres,Engineering,Analyst,L5,2022-10-26,3.76,807136,Low,0,,43,Bench,,67261,133487,645708
+EMP1192,Brian Diaz,Operations,Senior Manager,L2,2022-06-05,4.16,997839,Average,0,,67,Bench,,83153,257135,1297190
+EMP1193,Anthony Silva,Finance,Senior Analyst,L4,2022-10-06,3.82,524665,Average,0,,19,Bench,,43722,38340,682064
+EMP1194,Monique Thomas,Engineering,Senior Analyst,L5,2022-12-11,3.64,1177208,Average,0,,5,Billed,PRJ116,98100,22638,1530370
+EMP1195,Leslie Miller,Sales,Analyst,L5,2026-02-02,0.49,844529,High,0,,23,Bench,,70377,74708,1520152
+EMP1196,Allison Glover,Consulting,Senior Manager,L1,2025-09-04,0.9,743183,Low,0,,33,Bench,,61931,94327,594546
+EMP1197,Matthew Rogers,HR,Senior Analyst,L2,2025-04-13,1.3,1214702,Average,0,,33,Bench,,101225,154173,1579112
+EMP1198,David Chavez,Sales,Manager,L5,2023-05-12,3.22,688696,Average,0,,18,Bench,,57391,47678,895304
+EMP1199,Keith Brown,Operations,Consultant,L5,2019-10-12,6.81,477461,High,0,,1,Training,PRJ113,39788,1836,859429
+EMP1200,Suzanne Sullivan,Engineering,Consultant,L4,2022-11-27,3.68,433011,High,0,,11,Billed,PRJ145,36084,18319,779419
+EMP1201,Joanna George,HR,Senior Analyst,L1,2022-10-25,3.77,1081802,Average,0,,63,Bench,,90150,262128,1406342
+EMP1202,Raymond Crawford,Engineering,Senior Manager,L3,2021-07-08,5.07,515871,Average,0,,21,Bench,,42989,41666,670632
+EMP1203,Michelle Wolfe,Operations,Senior Analyst,L1,2023-08-12,2.97,1426438,Average,0,,19,Bench,,118869,104239,1854369
+EMP1204,Dr. Alexander Watts MD,Engineering,Senior Manager,L3,2025-09-22,0.85,300000,Average,0,,7,Training,PRJ125,25000,8076,390000
+EMP1205,Raymond Smith,Consulting,Manager,L2,2020-04-02,6.33,1408936,High,0,,11,Training,PRJ128,117411,59608,2536084
+EMP1206,Evan Brown,HR,Senior Manager,L2,2023-09-04,2.91,963305,Average,0,,56,Bench,,80275,207481,1252296
+EMP1207,Lynn Soto,HR,Senior Analyst,L5,2024-06-15,2.13,870986,Average,0,,27,Bench,,72582,90448,1132281
+EMP1208,Natalie Davis,Operations,Manager,L2,2024-10-10,1.81,736524,Average,0,,38,Bench,,61377,107645,957481
+EMP1209,Melissa Green,Consulting,Analyst,L5,2026-05-06,0.24,1019740,High,0,,15,Training,PRJ107,84978,58831,1835532
+EMP1210,Travis Sherman,Sales,Consultant,L1,2024-08-16,1.96,888709,Average,0,,24,Bench,,74059,82034,1155321
+EMP1211,Joel Casey,Engineering,Senior Analyst,L2,2022-06-04,4.16,1230990,Average,0,,7,Billed,PRJ114,102582,33142,1600287
+EMP1212,Dawn Hardy,Finance,Senior Analyst,L1,2019-05-10,7.23,934268,Average,0,,30,Bench,,77855,107800,1214548
+EMP1213,Vincent Cunningham,Engineering,Senior Analyst,L1,2021-04-01,5.33,945090,High,0,,13,Billed,PRJ121,78757,47254,1701162
+EMP1214,Stephen Payne,Engineering,Manager,L2,2023-07-09,3.06,790916,Low,0,,14,Billed,PRJ137,65909,42587,632732
+EMP1215,Joshua Smith,Sales,Analyst,L1,2020-02-20,6.45,882916,Average,0,,26,Bench,,73576,88291,1147790
+EMP1216,Paula Riley,Engineering,Senior Manager,L2,2024-07-17,2.04,992340,Low,0,,68,Bench,,82695,259535,793872
+EMP1217,Amy Wall,Consulting,Analyst,L2,2020-11-07,5.73,386949,Average,0,,1,Billed,PRJ137,32245,1488,503033
+EMP1218,Ian Foster,Consulting,Manager,L2,2023-01-01,3.58,495544,Average,1,2023-11-07,43,Bench,,41295,81955,644207
+EMP1219,Angelica Grant,HR,Senior Analyst,L3,2023-07-29,3.01,1122979,Average,0,,8,Billed,PRJ100,93581,34553,1459872
+EMP1220,Rebekah Hudson,Operations,Consultant,L1,2021-02-12,5.47,951259,Average,0,,14,Billed,PRJ145,79271,51221,1236636
+EMP1221,Autumn Snyder,Finance,Senior Analyst,L4,2021-12-27,4.59,844804,Average,0,,0,Billed,PRJ114,70400,0,1098245
+EMP1222,Kristen Silva,Engineering,Senior Manager,L2,2024-12-09,1.64,905530,Average,0,,8,Billed,PRJ102,75460,27862,1177189
+EMP1223,Jason Gibson,Engineering,Consultant,L1,2023-03-06,3.41,1004274,High,0,,17,Bench,,83689,65664,1807693
+EMP1224,Tracy Taylor,Sales,Senior Analyst,L5,2020-04-28,6.26,738072,Average,0,,1,Training,PRJ104,61506,2838,959493
+EMP1225,Alexandra Warren,Operations,Consultant,L2,2020-08-25,5.93,666508,High,0,,16,Bench,,55542,41015,1199714
+EMP1226,Kevin Hansen,Consulting,Analyst,L2,2023-06-21,3.11,958753,Average,0,,65,Bench,,79896,239688,1246378
+EMP1227,Joe Phelps,Finance,Manager,L4,2021-11-07,4.73,606488,Low,0,,2,Billed,PRJ117,50540,4665,485190
+EMP1228,Alexis Perry,HR,Senior Analyst,L3,2022-08-05,3.99,1022475,Average,0,,36,Bench,,85206,141573,1329217
+EMP1229,Loretta Cox,Consulting,Senior Manager,L3,2023-01-27,3.51,389224,Average,0,,13,Training,PRJ113,32435,19461,505991
+EMP1230,Kelly Wade,Operations,Analyst,L2,2022-02-02,4.49,1208746,Average,0,,26,Bench,,100728,120874,1571369
+EMP1231,Sarah Sanders,HR,Senior Analyst,L1,2025-12-10,0.64,1041779,Low,1,2026-06-24,7,Billed,PRJ146,86814,28047,833423
+EMP1232,John Finley MD,Sales,Analyst,L5,2022-09-10,3.89,976808,Average,0,,4,Training,PRJ115,81400,15027,1269850
+EMP1233,Ryan Flynn,Sales,Senior Manager,L5,2018-10-26,7.77,1194807,High,0,,4,Training,PRJ126,99567,18381,2150652
+EMP1234,Jose Klein,Engineering,Senior Analyst,L1,2024-11-14,1.71,1399642,Average,0,,1,Billed,PRJ106,116636,5383,1819534
+EMP1235,Anne Fischer,Operations,Senior Manager,L2,2021-11-22,4.69,1204311,High,1,2022-07-31,5,Billed,PRJ142,100359,23159,2167759
+EMP1236,David Thompson,Finance,Consultant,L5,2024-11-20,1.69,347737,Average,0,,27,Bench,,28978,36111,452058
+EMP1237,James Davis,HR,Senior Manager,L3,2023-06-12,3.14,516126,Average,0,,53,Bench,,43010,105210,670963
+EMP1238,Kelly Larsen,Consulting,Consultant,L1,2019-09-06,6.9,712554,Average,0,,42,Bench,,59379,115104,926320
+EMP1239,Dylan Brown,Operations,Senior Analyst,L4,2022-10-13,3.8,907827,Average,0,,28,Bench,,75652,97765,1180175
+EMP1240,Shaun Harris,Operations,Consultant,L2,2025-03-17,1.37,1055297,Average,0,,2,Training,PRJ122,87941,8117,1371886
+EMP1241,Lawrence Mcdonald,Sales,Senior Analyst,L1,2021-06-13,5.13,682276,Average,0,,8,Training,PRJ126,56856,20993,886958
+EMP1242,Cheryl Sanchez,Engineering,Senior Analyst,L5,2019-09-23,6.86,956030,Low,0,,9,Training,PRJ146,79669,33093,764824
+EMP1243,Travis Walker,Engineering,Manager,L2,2018-11-01,7.75,673385,Average,0,,7,Billed,PRJ143,56115,18129,875400
+EMP1244,Carlos Ortiz,HR,Senior Analyst,L3,2019-11-20,6.7,716544,Average,0,,18,Bench,,59712,49606,931507
+EMP1245,Dennis Deleon,Sales,Consultant,L2,2022-09-05,3.9,478001,High,0,,19,Bench,,39833,34930,860401
+EMP1246,Stephanie Soto,Operations,Manager,L2,2018-11-12,7.72,623030,High,0,,11,Billed,PRJ103,51919,26358,1121454
+EMP1247,Isabel Reed,Finance,Manager,L3,2023-04-08,3.32,494494,High,0,,10,Training,PRJ146,41207,19019,890089
+EMP1248,Sheila Green,Sales,Senior Analyst,L3,2021-10-03,4.83,607238,High,0,,44,Bench,,50603,102763,1093028
+EMP1249,Jenna Anderson,HR,Senior Manager,L2,2019-10-18,6.79,1216092,Average,0,,38,Bench,,101341,177736,1580919
+EMP1250,Donald Blevins,HR,Senior Manager,L3,2025-10-04,0.82,615180,Average,0,,9,Training,PRJ106,51265,21294,799734
+EMP1251,Vincent Young,Sales,Manager,L1,2023-09-12,2.88,1689714,High,1,2025-01-01,61,Bench,,140809,396432,3041485
+EMP1252,Amanda Woods,HR,Senior Analyst,L3,2021-04-02,5.33,1047995,Average,0,,76,Bench,,87332,306337,1362393
+EMP1253,Samantha Huang,Sales,Senior Manager,L3,2018-12-17,7.62,955450,Average,0,,9,Billed,PRJ112,79620,33073,1242085
+EMP1254,Valerie Ramirez,Consulting,Senior Analyst,L2,2020-02-13,6.47,642492,Low,0,,10,Billed,PRJ134,53541,24711,513993
+EMP1255,Whitney Lee,Sales,Senior Analyst,L1,2018-10-15,7.8,1110092,Average,0,,17,Bench,,92507,72582,1443119
+EMP1256,Larry Porter,Sales,Manager,L4,2024-09-22,1.85,727308,Average,0,,70,Bench,,60609,195813,945500
+EMP1257,Kristin Pennington,HR,Manager,L4,2020-11-02,5.75,936602,High,0,,52,Bench,,78050,187320,1685883
+EMP1258,Victoria Bailey,HR,Analyst,L5,2024-03-08,2.4,1668025,Average,0,,2,Training,PRJ108,139002,12830,2168432
+EMP1259,Bethany Murray,Engineering,Senior Manager,L3,2023-01-24,3.52,871182,Average,0,,12,Training,PRJ111,72598,40208,1132536
+EMP1260,Diana Nguyen,Engineering,Senior Manager,L3,2022-09-08,3.9,1244781,High,0,,20,Bench,,103731,95752,2240605
+EMP1261,Mary Gutierrez,Consulting,Senior Manager,L1,2021-10-06,4.82,689047,Low,0,,17,Bench,,57420,45053,551237
+EMP1262,Jeffrey Park,Engineering,Consultant,L4,2021-01-01,5.58,889503,Average,0,,5,Training,PRJ129,74125,17105,1156353
+EMP1263,Jessica Rice,Sales,Senior Analyst,L5,2020-09-07,5.9,1431240,Low,1,2023-08-04,48,Bench,,119270,264228,1144992
+EMP1264,James Wright,HR,Manager,L1,2023-10-05,2.82,711909,Average,0,,28,Bench,,59325,76667,925481
+EMP1265,Jacob Harmon,Engineering,Senior Manager,L3,2021-09-15,4.88,1443734,High,0,,45,Bench,,120311,249877,2598721
+EMP1266,Gregory Klein,Engineering,Analyst,L4,2018-09-01,7.92,1112325,Average,0,,48,Bench,,92693,205352,1446022
+EMP1267,Rachel Lee,Consulting,Senior Manager,L5,2020-07-21,6.03,731259,High,0,,34,Bench,,60938,95626,1316266
+EMP1268,Carolyn Davis,Operations,Senior Analyst,L2,2026-04-25,0.27,1089722,Average,0,,14,Billed,PRJ104,90810,58677,1416638
+EMP1269,Scott Gordon,Consulting,Senior Analyst,L4,2024-09-13,1.88,1191766,High,0,,23,Bench,,99313,105425,2145178
+EMP1270,Christopher Myers,Sales,Manager,L5,2024-02-08,2.48,1086542,High,0,,4,Training,PRJ135,90545,16716,1955775
+EMP1271,Allen Ryan,HR,Consultant,L1,2021-02-14,5.46,428932,High,0,,27,Bench,,35744,44542,772077
+EMP1272,Jennifer Cruz,Consulting,Manager,L2,2023-10-22,2.78,681858,Low,0,,4,Billed,PRJ103,56821,10490,545486
+EMP1273,Zachary Lynch,Engineering,Senior Manager,L5,2023-02-10,3.47,825744,High,0,,29,Bench,,68812,92102,1486339
+EMP1274,Rodney Proctor,HR,Analyst,L5,2024-04-12,2.3,877669,Average,0,,6,Billed,PRJ105,73139,20253,1140969
+EMP1275,Alicia Wilson,HR,Manager,L3,2025-02-14,1.46,1086201,Average,0,,3,Billed,PRJ110,90516,12533,1412061
+EMP1276,Priscilla Morales,Engineering,Consultant,L4,2018-09-02,7.92,953310,High,0,,4,Training,PRJ131,79442,14666,1715958
+EMP1277,Kevin Benjamin,Consulting,Manager,L3,2023-09-04,2.91,499396,Average,0,,0,Training,PRJ113,41616,0,649214
+EMP1278,Christopher Allen,Engineering,Senior Analyst,L2,2020-05-05,6.24,1014059,High,0,,31,Bench,,84504,120907,1825306
+EMP1279,Paul Harrison,Operations,Senior Manager,L5,2022-02-10,4.47,1083175,Low,0,,32,Bench,,90264,133313,866540
+EMP1280,William Lyons,HR,Senior Manager,L3,2024-07-02,2.08,1067937,Average,0,,18,Bench,,88994,73934,1388318
+EMP1281,Abigail Moody,Finance,Senior Manager,L4,2022-03-20,4.37,1224234,Average,0,,4,Training,PRJ103,102019,18834,1591504
+EMP1282,Daniel Small,Finance,Senior Manager,L2,2019-12-22,6.61,1150176,Low,1,2021-05-27,2,Billed,PRJ124,95848,8847,920140
+EMP1283,Nicholas Ross,Sales,Senior Manager,L1,2019-07-06,7.07,1037754,Average,0,,0,Billed,PRJ124,86479,0,1349080
+EMP1284,Matthew Hernandez,Engineering,Senior Manager,L3,2025-06-15,1.13,878950,Low,0,,4,Training,PRJ129,73245,13522,703160
+EMP1285,Jennifer Taylor,Engineering,Analyst,L2,2021-11-16,4.71,401711,Average,0,,55,Bench,,33475,84977,522224
+EMP1286,Joyce Castillo,Sales,Consultant,L1,2025-07-04,1.07,1028885,Average,0,,6,Training,PRJ127,85740,23743,1337550
+EMP1287,Ryan Gaines,Sales,Senior Manager,L3,2022-06-13,4.13,962306,Average,0,,10,Training,PRJ109,80192,37011,1250997
+EMP1288,Rachel Cunningham,Sales,Consultant,L2,2024-09-02,1.91,981473,Average,0,,2,Billed,PRJ118,81789,7549,1275914
+EMP1289,Abigail Goodman,HR,Senior Manager,L2,2023-04-02,3.33,516975,Average,0,,6,Billed,PRJ103,43081,11930,672067
+EMP1290,Sara Elliott,Operations,Manager,L3,2019-09-27,6.85,575683,Average,0,,18,Bench,,47973,39854,748387
+EMP1291,Craig Clark,Engineering,Senior Manager,L2,2025-06-09,1.14,1215945,Low,0,,23,Bench,,101328,107564,972756
+EMP1292,Nicholas Hodge,HR,Senior Analyst,L5,2026-04-28,0.26,888133,High,0,,7,Billed,PRJ147,74011,23911,1598639
+EMP1293,Brandi Smith,Sales,Analyst,L3,2025-06-14,1.13,1104450,High,0,,1,Training,PRJ103,92037,4247,1988010
+EMP1294,Mark Ali,Engineering,Manager,L2,2024-01-28,2.51,908495,Average,0,,12,Billed,PRJ137,75707,41930,1181043
+EMP1295,Tanya Jones,HR,Manager,L1,2024-05-28,2.18,908926,Average,0,,6,Training,PRJ132,75743,20975,1181603
+EMP1296,Andrew Stewart,Operations,Senior Analyst,L1,2020-04-07,6.32,1181485,High,0,,6,Billed,PRJ103,98457,27265,2126673
+EMP1297,Kelly Mcclure,HR,Senior Manager,L5,2024-05-01,2.25,745186,Average,0,,80,Bench,,62098,229288,968741
+EMP1298,Stephanie Campbell,Operations,Analyst,L3,2025-03-29,1.34,928836,Low,0,,23,Bench,,77403,82166,743068
+EMP1299,Claudia Henderson,Sales,Manager,L2,2026-02-02,0.49,761317,Average,0,,20,Bench,,63443,58562,989712
+EMP1300,David Adams,Operations,Analyst,L2,2025-01-07,1.56,769651,High,0,,13,Billed,PRJ111,64137,38482,1385371
+EMP1301,Dustin Melendez,Engineering,Manager,L1,2018-12-06,7.65,807248,Low,0,,14,Billed,PRJ138,67270,43467,645798
+EMP1302,Samuel Garcia,Sales,Senior Manager,L5,2025-10-03,0.82,966640,Average,0,,19,Bench,,80553,70639,1256632
+EMP1303,Melinda Meyer,Engineering,Manager,L1,2025-01-06,1.56,756375,High,0,,29,Bench,,63031,84364,1361475
+EMP1304,Michelle Martinez,Finance,Manager,L1,2019-08-30,6.92,1276726,High,0,,30,Bench,,106393,147314,2298106
+EMP1305,Rachel Black,Consulting,Consultant,L5,2018-10-09,7.81,631617,Average,0,,4,Billed,PRJ143,52634,9717,821102
+EMP1306,William Estrada,Operations,Senior Manager,L3,2023-10-05,2.82,843938,Low,0,,17,Bench,,70328,55180,675150
+EMP1307,Cindy Stephens,Consulting,Senior Analyst,L2,2021-02-26,5.43,768080,High,0,,13,Billed,PRJ125,64006,38404,1382544
+EMP1308,Jay Coleman,Consulting,Senior Analyst,L3,2021-11-25,4.68,1334093,Average,0,,51,Bench,,111174,261687,1734320
+EMP1309,Dr. Nicholas Knapp,Operations,Senior Manager,L4,2024-06-29,2.09,958966,Low,1,2025-01-30,24,Bench,,79913,88519,767172
+EMP1310,Travis Sloan,Sales,Senior Analyst,L4,2021-05-11,5.22,1209553,Low,0,,19,Bench,,100796,88390,967642
+EMP1311,Gina Cook,Finance,Senior Manager,L4,2026-01-03,0.57,454331,High,0,,3,Billed,PRJ136,37860,5242,817795
+EMP1312,David Jones,Engineering,Senior Analyst,L5,2026-03-07,0.4,980115,Average,0,,23,Bench,,81676,86702,1274149
+EMP1313,William Miller,HR,Consultant,L1,2022-09-01,3.92,1166889,High,0,,3,Billed,PRJ137,97240,13464,2100400
+EMP1314,Erica Ruiz,Engineering,Senior Analyst,L3,2022-04-05,4.32,924685,High,0,,10,Billed,PRJ139,77057,35564,1664433
+EMP1315,Phillip Lopez,HR,Manager,L2,2022-01-14,4.55,1219644,Average,0,,3,Billed,PRJ126,101637,14072,1585537
+EMP1316,Gina Rodriguez,Engineering,Senior Manager,L4,2024-09-26,1.84,744813,Average,1,2025-12-02,29,Bench,,62067,83075,968256
+EMP1317,Christopher Gonzalez,Operations,Analyst,L3,2023-11-24,2.68,1322804,Average,0,,5,Training,PRJ116,110233,25438,1719645
+EMP1318,Kayla Nelson,Finance,Analyst,L4,2018-11-21,7.7,1589669,Average,0,,12,Billed,PRJ142,132472,73369,2066569
+EMP1319,Gregory Fitzgerald,HR,Senior Manager,L4,2018-11-02,7.75,791148,Average,0,,56,Bench,,65929,170401,1028492
+EMP1320,Luis Bautista,Sales,Consultant,L2,2019-05-11,7.23,766349,High,0,,5,Training,PRJ115,63862,14737,1379428
+EMP1321,Kristin David,Engineering,Senior Analyst,L5,2022-06-29,4.09,1336015,Average,0,,17,Bench,,111334,87354,1736819
+EMP1322,Karen Day,Engineering,Consultant,L1,2025-01-03,1.57,1373871,High,0,,13,Training,PRJ125,114489,68693,2472967
+EMP1323,Jason Bullock,HR,Analyst,L5,2026-02-17,0.45,743141,Average,0,,0,Billed,PRJ142,61928,0,966083
+EMP1324,Connie Moore,Sales,Senior Manager,L3,2025-10-14,0.79,773943,Average,0,,39,Bench,,64495,116091,1006125
+EMP1325,Mark Moore,Sales,Senior Manager,L5,2024-06-22,2.11,815464,Average,0,,1,Training,PRJ129,67955,3136,1060103
+EMP1326,Rachel Hunt,Operations,Consultant,L3,2025-09-20,0.86,496664,Average,0,,16,Bench,,41388,30563,645663
+EMP1327,William Kim,Operations,Consultant,L3,2026-03-28,0.34,624404,Average,0,,20,Bench,,52033,48031,811725
+EMP1328,Casey Nolan,Operations,Senior Analyst,L1,2020-12-19,5.62,598757,Average,0,,24,Bench,,49896,55269,778384
+EMP1329,Lynn Tyler,Operations,Manager,L2,2024-09-10,1.89,669660,Average,1,2025-07-27,29,Bench,,55805,74692,870558
+EMP1330,Monica Snyder,Operations,Manager,L1,2021-05-08,5.23,889594,Low,0,,7,Training,PRJ148,74132,23950,711675
+EMP1331,Angela Lindsey,Operations,Senior Analyst,L5,2026-05-15,0.21,970264,Average,1,2026-07-13,0,Billed,PRJ100,80855,0,1261343
+EMP1332,Amanda Gordon,Finance,Manager,L3,2020-09-10,5.89,1365150,Average,0,,32,Bench,,113762,168018,1774695
+EMP1333,Ethan Mitchell,Sales,Analyst,L4,2024-08-28,1.92,600493,Average,0,,19,Bench,,50041,43882,780640
+EMP1334,Nicole Cook,Operations,Manager,L4,2018-10-22,7.78,1195296,High,0,,45,Bench,,99608,206878,2151532
+EMP1335,Christopher Wagner,Sales,Senior Analyst,L3,2025-11-16,0.7,835803,Average,0,,43,Bench,,69650,138228,1086543
+EMP1336,Amanda Garcia,Sales,Manager,L1,2023-11-16,2.71,885160,Average,0,,46,Bench,,73763,156605,1150708
+EMP1337,Christopher Moore,Consulting,Senior Manager,L2,2022-12-27,3.59,1102445,Average,0,,16,Bench,,91870,67842,1433178
+EMP1338,Ryan Ramirez,Finance,Consultant,L1,2018-12-09,7.65,563183,Average,0,,10,Training,PRJ139,46931,21660,732137
+EMP1339,Mariah Best,Operations,Analyst,L3,2018-10-26,7.77,1014722,Low,0,,39,Bench,,84560,152208,811777
+EMP1340,Joseph Ortiz,Engineering,Senior Manager,L3,2020-10-21,5.78,949935,Average,0,,15,Billed,PRJ104,79161,54803,1234915
+EMP1341,Jeffrey Schultz,HR,Senior Manager,L2,2025-04-20,1.28,1047735,Average,0,,5,Billed,PRJ132,87311,20148,1362055
+EMP1342,Ruth Watkins,Engineering,Senior Analyst,L5,2022-07-26,4.02,986750,Average,0,,48,Bench,,82229,182169,1282775
+EMP1343,Stephanie Sexton,Finance,Consultant,L5,2024-10-05,1.82,1636590,Low,0,,53,Bench,,136382,333612,1309272
+EMP1344,William Peterson,HR,Consultant,L2,2018-08-19,7.95,708678,Low,0,,15,Training,PRJ108,59056,40885,566942
+EMP1345,Timothy Jackson,Finance,Analyst,L5,2022-10-11,3.81,740700,Average,0,,1,Training,PRJ104,61725,2848,962910
+EMP1346,Cynthia Williams,Sales,Senior Analyst,L4,2021-07-31,5.0,713057,High,0,,12,Billed,PRJ123,59421,32910,1283502
+EMP1347,Paul Hester DDS,HR,Analyst,L5,2023-02-12,3.47,733356,Average,0,,40,Bench,,61113,112824,953362
+EMP1348,William Hester,Sales,Manager,L5,2019-04-24,7.27,708783,Average,0,,58,Bench,,59065,158113,921417
+EMP1349,Brian Valentine,Engineering,Senior Manager,L5,2025-09-06,0.9,1256704,Average,0,,5,Training,PRJ110,104725,24167,1633715
+EMP1350,Jessica Robinson,Engineering,Analyst,L4,2025-03-30,1.34,1326151,Average,0,,1,Training,PRJ134,110512,5100,1723996
+EMP1351,Shannon Jones,HR,Senior Manager,L5,2023-08-13,2.97,728776,Average,0,,52,Bench,,60731,145755,947408
+EMP1352,Mark Moore,HR,Senior Analyst,L4,2024-03-02,2.41,650293,Average,0,,12,Training,PRJ139,54191,30013,845380
+EMP1353,Charlotte George,Operations,Manager,L2,2020-06-20,6.12,1041424,Average,0,,19,Bench,,86785,76104,1353851
+EMP1354,Jesse Smith,Finance,Senior Analyst,L1,2019-06-17,7.13,734333,Low,0,,86,Bench,,61194,242894,587466
+EMP1355,Daniel Williams,Operations,Manager,L2,2024-04-05,2.32,1089879,Low,0,,1,Billed,PRJ142,90823,4191,871903
+EMP1356,Brenda Fernandez,Finance,Manager,L1,2019-07-03,7.08,960876,Average,0,,26,Bench,,80073,96087,1249138
+EMP1357,Amy Lang,Operations,Senior Manager,L2,2025-07-27,1.01,445276,Low,0,,1,Training,PRJ142,37106,1712,356220
+EMP1358,Charles Torres,Sales,Senior Analyst,L1,2024-04-13,2.3,1364251,Low,0,,11,Billed,PRJ108,113687,57718,1091400
+EMP1359,Erin Brown,HR,Senior Analyst,L1,2022-09-27,3.84,1438763,Average,0,,40,Bench,,119896,221348,1870391
+EMP1360,Ashley Melton,Engineering,Analyst,L3,2020-09-29,5.84,716163,High,0,,14,Training,PRJ107,59680,38562,1289093
+EMP1361,Samantha Bell,Finance,Senior Analyst,L1,2023-05-11,3.22,783689,Average,1,2025-09-24,146,Bench,,65307,440071,1018795
+EMP1362,Jason Perkins,Finance,Analyst,L1,2019-08-19,6.95,985759,Average,0,,20,Bench,,82146,75827,1281486
+EMP1363,Daniel Frye,Engineering,Consultant,L3,2026-05-31,0.17,1000337,Average,0,,9,Billed,PRJ147,83361,34627,1300438
+EMP1364,Marc Powers,Operations,Consultant,L5,2021-11-25,4.68,1097563,High,0,,6,Billed,PRJ117,91463,25328,1975613
+EMP1365,Laura Dunn,Finance,Consultant,L5,2020-09-27,5.84,1503061,Average,0,,10,Training,PRJ138,125255,57810,1953979
+EMP1366,Leah Buchanan,Sales,Senior Analyst,L3,2021-06-26,5.1,846915,Low,0,,11,Billed,PRJ145,70576,35831,677532
+EMP1367,Daniel Thornton,HR,Senior Analyst,L4,2020-08-19,5.95,660510,Average,0,,1,Training,PRJ113,55042,2540,858663
+EMP1368,Jennifer Davis,Engineering,Analyst,L1,2019-05-09,7.23,486204,Low,1,2023-05-29,11,Training,PRJ132,40517,20570,388963
+EMP1369,Linda Chan,HR,Manager,L1,2022-03-23,4.36,680720,Average,0,,15,Training,PRJ116,56726,39272,884936
+EMP1370,John Bryant,Finance,Analyst,L3,2019-06-18,7.12,890061,Average,0,,32,Bench,,74171,109545,1157079
+EMP1371,Clinton West,Finance,Consultant,L3,2021-03-08,5.4,1438367,High,1,2024-06-20,26,Bench,,119863,143836,2589060
+EMP1372,Nicole Evans,Engineering,Analyst,L4,2022-01-18,4.53,744716,Average,0,,30,Bench,,62059,85928,968130
+EMP1373,Matthew Kirk,Sales,Manager,L5,2026-03-31,0.33,967136,Average,0,,0,Billed,PRJ105,80594,0,1257276
+EMP1374,Paul Shelton,Consulting,Senior Analyst,L2,2025-04-08,1.31,895073,High,1,2025-10-11,6,Training,PRJ117,74589,20655,1611131
+EMP1375,Patricia Beck,Engineering,Analyst,L5,2020-11-05,5.74,1256517,Low,0,,27,Bench,,104709,130484,1005213
+EMP1376,Alexa Chavez,Consulting,Consultant,L1,2024-06-02,2.16,1658079,Average,0,,16,Bench,,138173,102035,2155502
+EMP1377,Robert Huff,Operations,Consultant,L3,2026-02-08,0.47,740739,Average,0,,0,Billed,PRJ100,61728,0,962960
+EMP1378,Jessica Beck,Consulting,Senior Analyst,L4,2021-07-30,5.01,753168,Average,0,,40,Bench,,62764,115872,979118
+EMP1379,Amy Gordon,Sales,Analyst,L5,2022-10-24,3.77,1213248,Average,0,,37,Bench,,101104,172654,1577222
+EMP1380,Sydney Mccarthy,Operations,Manager,L4,2025-10-16,0.79,1104567,High,0,,19,Bench,,92047,80718,1988220
+EMP1381,Tiffany Brown,Consulting,Senior Analyst,L5,2023-01-02,3.58,1454012,Average,0,,1,Training,PRJ149,121167,5592,1890215
+EMP1382,Shannon Davis,Operations,Analyst,L1,2026-06-12,0.13,1075178,Average,0,,36,Bench,,89598,148870,1397731
+EMP1383,Sarah Jones,Consulting,Senior Manager,L2,2023-04-19,3.28,792212,Average,0,,21,Bench,,66017,63986,1029875
+EMP1384,Joanna Brewer,Sales,Consultant,L4,2018-10-02,7.83,1077196,High,0,,38,Bench,,89766,157436,1938952
+EMP1385,Tammy Rosales,Consulting,Manager,L4,2025-08-17,0.95,1232611,High,1,2025-11-04,34,Bench,,102717,161187,2218699
+EMP1386,Curtis Reed,Consulting,Manager,L2,2025-05-28,1.18,1146144,High,0,,40,Bench,,95512,176329,2063059
+EMP1387,Bryan Martin,Consulting,Manager,L4,2018-08-19,7.95,1052182,Low,1,2024-02-10,18,Bench,,87681,72843,841745
+EMP1388,Debra Bradshaw,Engineering,Consultant,L4,2026-03-20,0.36,1220002,Average,0,,3,Billed,PRJ140,101666,14076,1586002
+EMP1389,Jennifer Pena,Engineering,Analyst,L5,2020-01-06,6.57,1250788,Low,1,2026-07-26,27,Bench,,104232,129889,1000630
+EMP1390,Joe Olson,Engineering,Senior Analyst,L5,2019-03-04,7.41,1314647,Average,0,,24,Bench,,109553,121352,1709041
+EMP1391,James Johnson,Sales,Analyst,L2,2023-08-18,2.95,1094612,Low,0,,33,Bench,,91217,138931,875689
+EMP1392,Renee Bates,Operations,Senior Analyst,L1,2023-03-07,3.4,849864,Average,0,,4,Training,PRJ110,70822,13074,1104823
+EMP1393,Dana Martinez,Finance,Manager,L4,2023-04-21,3.28,944014,Average,0,,5,Training,PRJ135,78667,18154,1227218
+EMP1394,Christine Macias,Consulting,Analyst,L1,2022-07-13,4.05,1261952,Low,0,,55,Bench,,105162,266951,1009561
+EMP1395,Sally Thomas,Consulting,Manager,L2,2026-05-09,0.23,654919,Average,0,,34,Bench,,54576,85643,851394
+EMP1396,Joseph Owens,Sales,Senior Manager,L2,2025-04-19,1.28,1010601,Average,0,,59,Bench,,84216,229328,1313781
+EMP1397,Riley Melendez,Consulting,Manager,L5,2022-04-07,4.32,781998,Average,1,2026-04-21,35,Bench,,65166,105268,1016597
+EMP1398,Daniel Graham,Engineering,Manager,L4,2022-12-29,3.59,908623,Low,0,,22,Bench,,75718,76883,726898
+EMP1399,Dr. Melissa Robinson,Finance,Senior Analyst,L3,2019-02-27,7.43,1283535,Average,0,,26,Bench,,106961,128353,1668595
+EMP1400,Charles Cross,HR,Senior Manager,L2,2026-05-17,0.21,957329,High,0,,54,Bench,,79777,198829,1723192
+EMP1401,Brandon Sexton,Consulting,Manager,L4,2025-11-11,0.72,913930,Low,0,,21,Bench,,76160,73817,731144
+EMP1402,Nicole Wolfe,Engineering,Manager,L1,2022-12-31,3.58,492043,Low,1,2024-03-25,25,Bench,,41003,47311,393634
+EMP1403,Megan Mccullough,HR,Senior Manager,L5,2019-06-29,7.09,1123876,Average,0,,4,Training,PRJ135,93656,17290,1461038
+EMP1404,Justin Harris,Finance,Senior Manager,L1,2021-03-16,5.38,1093645,High,0,,16,Bench,,91137,67301,1968561
+EMP1405,Cynthia Martin,HR,Analyst,L2,2023-01-29,3.5,1548976,Average,0,,31,Bench,,129081,184685,2013668
+EMP1406,Dorothy Holt,Engineering,Senior Analyst,L2,2025-03-18,1.37,807666,Average,0,,7,Billed,PRJ107,67305,21744,1049965
+EMP1407,Cody Miller,Operations,Senior Manager,L1,2020-01-17,6.54,965745,Average,0,,5,Billed,PRJ144,80478,18572,1255468
+EMP1408,Andrea Blackburn,Operations,Senior Manager,L2,2021-10-04,4.82,974815,Average,0,,9,Billed,PRJ134,81234,33743,1267259
+EMP1409,Rachel Campbell,HR,Consultant,L4,2023-12-13,2.63,1373235,Low,0,,6,Billed,PRJ123,114436,31690,1098588
+EMP1410,Adriana Wiley,Sales,Senior Manager,L2,2025-03-18,1.37,871411,Average,0,,6,Billed,PRJ127,72617,20109,1132834
+EMP1411,Sharon Alexander,HR,Senior Analyst,L5,2021-04-12,5.3,983706,High,0,,13,Billed,PRJ102,81975,49185,1770670
+EMP1412,Monique Mclaughlin,Consulting,Manager,L4,2018-08-20,7.95,1082368,Average,0,,59,Bench,,90197,245614,1407078
+EMP1413,Benjamin Conner,Consulting,Manager,L3,2021-05-10,5.23,955982,High,1,2025-02-08,17,Bench,,79665,62506,1720767
+EMP1414,Daniel Miller,Operations,Manager,L2,2023-12-16,2.62,766069,Average,0,,5,Training,PRJ123,63839,14732,995889
+EMP1415,Megan Bell,Sales,Manager,L2,2022-06-20,4.12,958226,Low,0,,2,Billed,PRJ122,79852,7370,766580
+EMP1416,Ricardo Snyder,Engineering,Consultant,L5,2019-06-22,7.11,1222089,High,0,,29,Bench,,101840,136309,2199760
+EMP1417,Joanne Adams,Consulting,Senior Manager,L5,2021-06-24,5.1,592045,Low,0,,12,Billed,PRJ143,49337,27325,473636
+EMP1418,Mary Pearson,Operations,Manager,L1,2020-04-27,6.26,939890,Average,0,,43,Bench,,78324,155443,1221857
+EMP1419,Patricia Turner,Finance,Analyst,L1,2026-02-02,0.49,689963,Low,0,,26,Bench,,57496,68996,551970
+EMP1420,Brian Riley,Operations,Manager,L1,2026-02-13,0.46,1258513,Low,0,,39,Bench,,104876,188776,1006810
+EMP1421,Kristin Farmer,Consulting,Senior Manager,L5,2024-03-21,2.36,443043,Average,0,,7,Billed,PRJ142,36920,11928,575955
+EMP1422,Gregory Hendrix,Consulting,Manager,L1,2026-06-13,0.13,732323,Average,0,,29,Bench,,61026,81682,952019
+EMP1423,Jennifer Henry,Operations,Consultant,L1,2019-03-16,7.38,1013163,Average,0,,7,Billed,PRJ122,84430,27277,1317111
+EMP1424,Mr. Michael Clark,Engineering,Senior Analyst,L3,2019-10-13,6.8,1369657,Average,0,,69,Bench,,114138,363485,1780554
+EMP1425,Michael Johnson,HR,Senior Analyst,L1,2019-08-11,6.98,880274,Low,0,,25,Bench,,73356,84641,704219
+EMP1426,Heather White,Consulting,Senior Manager,L2,2021-07-22,5.03,733440,Low,0,,9,Training,PRJ139,61120,25388,586752
+EMP1427,Karen Wilkerson,Operations,Senior Analyst,L5,2024-12-15,1.62,1464347,Average,0,,7,Billed,PRJ115,122028,39424,1903651
+EMP1428,Thomas Payne,Operations,Senior Analyst,L4,2025-07-19,1.03,465595,Average,0,,5,Billed,PRJ111,38799,8953,605273
+EMP1429,Jonathan Ellis,Sales,Analyst,L3,2018-12-25,7.6,300000,Average,0,,29,Bench,,25000,33461,390000
+EMP1430,Gregory Murray,HR,Senior Manager,L5,2019-07-04,7.08,1032004,Average,0,,6,Training,PRJ101,86000,23815,1341605
+EMP1431,Kevin Higgins,Finance,Senior Manager,L5,2026-01-28,0.5,749383,High,0,,22,Bench,,62448,63409,1348889
+EMP1432,Joseph Chambers,Engineering,Senior Analyst,L2,2022-02-06,4.48,593630,Average,0,,7,Billed,PRJ147,49469,15982,771719
+EMP1433,Sherry Johnson,Finance,Senior Analyst,L1,2024-04-26,2.26,1112506,Average,0,,27,Bench,,92708,115529,1446257
+EMP1434,Lindsey Shields,HR,Senior Analyst,L2,2023-07-09,3.06,973140,Average,0,,42,Bench,,81095,157199,1265082
+EMP1435,Tracy Williams,HR,Consultant,L1,2024-09-27,1.84,730776,Average,0,,37,Bench,,60898,103995,950008
+EMP1436,Julia Myers,HR,Manager,L1,2026-05-11,0.22,515908,Average,0,,35,Bench,,42992,69449,670680
+EMP1437,Crystal Adams,Finance,Consultant,L5,2020-02-24,6.44,1161737,High,0,,5,Training,PRJ126,96811,22341,2091126
+EMP1438,Taylor Hodge,HR,Senior Manager,L1,2022-07-19,4.04,1095060,Average,0,,2,Billed,PRJ117,91255,8423,1423578
+EMP1439,Margaret Hill,Operations,Analyst,L3,2019-05-30,7.18,870247,High,0,,30,Bench,,72520,100413,1566444
+EMP1440,Jeffrey Walls,Finance,Manager,L3,2026-04-12,0.3,1453991,High,0,,11,Billed,PRJ144,121165,61515,2617183
+EMP1441,Brandon Reed,HR,Analyst,L3,2019-10-03,6.83,578974,High,0,,14,Billed,PRJ124,48247,31175,1042153
+EMP1442,Valerie Miller,Operations,Senior Manager,L5,2026-02-13,0.46,442342,High,0,,0,Billed,PRJ130,36861,0,796215
+EMP1443,John Johnston,Sales,Senior Manager,L2,2021-04-14,5.3,692427,Average,0,,7,Billed,PRJ112,57702,18642,900155
+EMP1444,William Anderson,HR,Analyst,L4,2024-01-31,2.5,886324,Average,0,,0,Training,PRJ122,73860,0,1152221
+EMP1445,Janet Greene,Finance,Analyst,L1,2019-06-30,7.09,973001,Average,0,,52,Bench,,81083,194600,1264901
+EMP1446,Robert Glass,Consulting,Analyst,L4,2022-02-14,4.46,827629,Average,1,2022-05-29,6,Training,PRJ114,68969,19099,1075917
+EMP1447,Joseph Perkins,HR,Senior Manager,L2,2026-06-15,0.13,1005616,Average,0,,20,Bench,,83801,77355,1307300
+EMP1448,Susan Erickson,Consulting,Senior Analyst,L2,2023-10-16,2.79,524538,Average,0,,0,Billed,PRJ101,43711,0,681899
+EMP1449,Justin Harrison,Operations,Analyst,L5,2023-12-22,2.61,1333129,Average,0,,27,Bench,,111094,138440,1733067
+EMP1450,Amy Myers,Sales,Manager,L3,2022-07-31,4.0,875354,Average,0,,9,Billed,PRJ125,72946,30300,1137960
+EMP1451,Lisa Rodriguez,Engineering,Senior Manager,L3,2024-02-04,2.49,1235188,Average,0,,57,Bench,,102932,270791,1605744
+EMP1452,Holly Odom,Sales,Consultant,L2,2022-09-18,3.87,1002817,Average,0,,54,Bench,,83568,208277,1303662
+EMP1453,Judy Mata,HR,Consultant,L5,2023-11-05,2.74,1037025,Low,0,,9,Training,PRJ117,86418,35897,829620
+EMP1454,William Smith,Consulting,Manager,L5,2026-05-07,0.23,1070930,High,1,2026-05-10,57,Bench,,89244,234780,1927674
+EMP1455,Jacob Pruitt,Consulting,Senior Analyst,L1,2026-01-14,0.54,1034312,Average,1,2026-05-15,139,Bench,,86192,552959,1344605
+EMP1456,Karen Montgomery,Finance,Analyst,L3,2024-10-05,1.82,1092816,Average,0,,43,Bench,,91068,180734,1420660
+EMP1457,Thomas Alexander,Consulting,Senior Manager,L2,2023-12-24,2.6,1298745,Low,0,,46,Bench,,108228,229777,1038996
+EMP1458,Brandi Walker,Finance,Analyst,L4,2019-10-28,6.76,958956,Average,0,,7,Billed,PRJ149,79913,25818,1246642
+EMP1459,Sandra Perez,Operations,Senior Manager,L3,2026-05-05,0.24,1112701,Average,0,,21,Bench,,92725,89872,1446511
+EMP1460,John Moore,Engineering,Consultant,L1,2020-09-14,5.88,873079,Average,0,,1,Training,PRJ122,72756,3357,1135002
+EMP1461,Richard Perry,HR,Analyst,L5,2025-10-10,0.81,1332035,Low,0,,2,Training,PRJ143,111002,10246,1065628
+EMP1462,Rebecca Mitchell,Finance,Manager,L2,2021-11-20,4.7,697082,Average,0,,170,Bench,,58090,455784,906206
+EMP1463,Joanne Simmons,Engineering,Senior Analyst,L3,2020-08-31,5.92,1440282,Average,0,,9,Training,PRJ101,120023,49855,1872366
+EMP1464,Emily Caldwell,Consulting,Manager,L4,2019-10-01,6.84,887952,Average,1,2021-05-21,34,Bench,,73996,116116,1154337
+EMP1465,Bryan Ray,Consulting,Senior Analyst,L1,2024-08-15,1.96,470767,Average,0,,41,Bench,,39230,74236,611997
+EMP1466,James Washington,Engineering,Analyst,L1,2019-07-20,7.04,938431,Average,1,2023-07-15,48,Bench,,78202,173248,1219960
+EMP1467,Peggy Elliott PhD,Consulting,Analyst,L3,2020-03-05,6.41,695684,Average,0,,151,Bench,,57973,404031,904389
+EMP1468,Maria Carter,Operations,Senior Analyst,L4,2019-01-09,7.56,1152193,High,0,,6,Billed,PRJ116,96016,26589,2073947
+EMP1469,Chad Dalton,Operations,Consultant,L1,2024-06-12,2.13,704212,Average,0,,1,Billed,PRJ137,58684,2708,915475
+EMP1470,Michael Jones,Engineering,Senior Manager,L2,2022-08-02,4.0,766144,Average,0,,13,Training,PRJ102,63845,38307,995987
+EMP1471,John Valencia,Finance,Manager,L1,2023-07-24,3.02,333137,Low,0,,3,Billed,PRJ138,27761,3843,266509
+EMP1472,Chris King,Finance,Manager,L4,2021-12-25,4.6,764308,Average,0,,0,Training,PRJ122,63692,0,993600
+EMP1473,Oscar Wright,Engineering,Manager,L5,2021-05-12,5.22,300000,Low,0,,11,Training,PRJ127,25000,12692,240000
+EMP1474,Anne White,Finance,Analyst,L5,2025-03-06,1.4,424829,Average,0,,38,Bench,,35402,62090,552277
+EMP1475,Kristina Brown,Finance,Manager,L3,2022-12-27,3.59,1128124,High,0,,20,Bench,,94010,86778,2030623
+EMP1476,Dana Valenzuela,Operations,Senior Manager,L4,2018-11-14,7.72,1135740,Average,0,,9,Billed,PRJ124,94645,39314,1476462
+EMP1477,David Mccann,Finance,Senior Manager,L1,2019-11-06,6.74,1027637,Low,0,,26,Bench,,85636,102763,822109
+EMP1478,John Mcclure,Sales,Senior Analyst,L1,2019-11-05,6.74,609907,Low,0,,6,Billed,PRJ116,50825,14074,487925
+EMP1479,Nicole Ross,HR,Analyst,L5,2020-05-04,6.24,885686,Average,0,,0,Billed,PRJ145,73807,0,1151391
+EMP1480,Rebecca Gomez,Consulting,Senior Manager,L5,2025-04-26,1.26,898919,Average,0,,36,Bench,,74909,124465,1168594
+EMP1481,Angela Armstrong,Sales,Consultant,L2,2026-04-16,0.29,552490,Low,1,2026-07-01,24,Bench,,46040,50999,441992
+EMP1482,Andrew Dorsey,Finance,Analyst,L5,2024-09-08,1.89,1351019,High,0,,35,Bench,,112584,181867,2431834
+EMP1483,Brian Campbell,Operations,Analyst,L2,2024-02-08,2.48,1163208,Average,0,,0,Training,PRJ100,96934,0,1512170
+EMP1484,Tom Perkins,Engineering,Senior Manager,L1,2021-09-24,4.85,833710,Average,0,,45,Bench,,69475,144295,1083823
+EMP1485,Megan Aguilar DVM,Finance,Consultant,L2,2024-11-17,1.7,908065,High,0,,24,Bench,,75672,83821,1634517
+EMP1486,Brian Grant,Operations,Senior Analyst,L2,2026-01-13,0.55,962514,Low,0,,20,Bench,,80209,74039,770011
+EMP1487,Christina Miller,HR,Senior Manager,L3,2022-11-12,3.72,300000,High,0,,24,Bench,,25000,27692,540000
+EMP1488,Lisa Foster,Finance,Consultant,L5,2022-07-19,4.04,825846,Average,0,,49,Bench,,68820,155640,1073599
+EMP1489,Dr. Rebekah Olson,Engineering,Analyst,L2,2020-09-23,5.85,695404,High,0,,22,Bench,,57950,58841,1251727
+EMP1490,John Yang,Operations,Consultant,L1,2021-09-11,4.89,599513,Average,0,,21,Bench,,49959,48422,779366
+EMP1491,Jordan Ramirez,Operations,Analyst,L4,2025-09-10,0.89,815669,High,0,,116,Bench,,67972,363913,1468204
+EMP1492,Jason James,Operations,Senior Manager,L2,2019-05-19,7.21,1439305,High,0,,35,Bench,,119942,193752,2590749
+EMP1493,Karen Patel,HR,Senior Manager,L5,2024-12-23,1.6,1092252,Average,0,,14,Billed,PRJ123,91021,58813,1419927
+EMP1494,Ashley Weber,Finance,Manager,L3,2022-12-03,3.66,728646,High,0,,30,Bench,,60720,84074,1311562
+EMP1495,Rhonda Perry,HR,Manager,L1,2025-09-22,0.85,1071774,Average,0,,12,Training,PRJ104,89314,49466,1393306
+EMP1496,Jennifer Cook,Consulting,Manager,L3,2021-12-08,4.65,1319806,Average,0,,6,Training,PRJ139,109983,30457,1715747
+EMP1497,Kristina Kirk,Consulting,Senior Manager,L4,2024-05-21,2.19,1177390,Average,0,,22,Bench,,98115,99625,1530607
+EMP1498,Richard Wood,Finance,Senior Analyst,L2,2023-04-01,3.33,917889,Average,1,2024-03-18,65,Bench,,76490,229472,1193255
+EMP1499,Jennifer Newman,HR,Senior Manager,L2,2025-06-11,1.14,705918,Average,0,,66,Bench,,58826,179194,917693
+EMP1500,Gloria Ford,Engineering,Consultant,L5,2019-12-15,6.63,1109466,Average,0,,10,Training,PRJ142,92455,42671,1442305
+EMP1501,Susan Hodges,Operations,Senior Manager,L2,2025-06-18,1.12,1018045,Average,0,,18,Bench,,84837,70480,1323458
+EMP1502,Stephanie Esparza,Operations,Senior Manager,L1,2025-02-07,1.48,1168557,High,0,,5,Billed,PRJ146,97379,22472,2103402
+EMP1503,Jodi Mccormick,Finance,Analyst,L4,2024-07-30,2.0,1090551,High,0,,135,Bench,,90879,566247,1962991
+EMP1504,Ricardo Terry,Consulting,Analyst,L3,2025-11-23,0.68,1214865,Average,0,,99,Bench,,101238,462583,1579324
+EMP1505,Rodney Wilson,Consulting,Analyst,L4,2026-03-12,0.39,739429,Average,1,2026-03-19,26,Bench,,61619,73942,961257
+EMP1506,Jaclyn Thomas,Operations,Senior Manager,L2,2020-09-12,5.88,1295218,Average,0,,40,Bench,,107934,199264,1683783
+EMP1507,Marcia Sharp,Finance,Senior Analyst,L3,2025-03-13,1.38,959279,Average,0,,31,Bench,,79939,114375,1247062
+EMP1508,Hannah Trevino,HR,Consultant,L5,2024-09-18,1.87,1522578,Low,0,,22,Bench,,126881,128833,1218062
+EMP1509,Amanda Castro,Consulting,Consultant,L4,2023-06-29,3.09,693243,Average,0,,1,Training,PRJ132,57770,2666,901215
+EMP1510,Seth Price,HR,Senior Analyst,L3,2025-02-21,1.44,1420789,Average,0,,15,Training,PRJ142,118399,81968,1847025
+EMP1511,Angela Williams,Consulting,Senior Analyst,L3,2019-10-08,6.82,959373,High,0,,28,Bench,,79947,103317,1726871
+EMP1512,Andrew Cross,Consulting,Consultant,L3,2024-05-11,2.22,704574,Average,0,,28,Bench,,58714,75877,915946
+EMP1513,Joshua Page,Sales,Manager,L1,2023-12-16,2.62,754834,Average,0,,11,Training,PRJ120,62902,31935,981284
+EMP1514,Brittany Stevens,Consulting,Analyst,L4,2021-05-16,5.21,803895,Average,1,2022-02-25,71,Bench,,66991,219525,1045063
+EMP1515,Angela Ballard,Engineering,Analyst,L3,2022-07-12,4.05,1027249,Low,0,,4,Training,PRJ144,85604,15803,821799
+EMP1516,Deborah Liu,Finance,Consultant,L4,2025-09-08,0.89,1056850,Average,0,,17,Bench,,88070,69101,1373905
+EMP1517,Nicole Mills,Finance,Senior Analyst,L3,2025-12-11,0.64,727889,Average,0,,29,Bench,,60657,81187,946255
+EMP1518,Kellie Preston,HR,Manager,L5,2020-03-23,6.36,892693,Average,0,,29,Bench,,74391,99569,1160500
+EMP1519,Michael Gordon,Consulting,Consultant,L5,2019-11-17,6.71,1542681,Average,0,,26,Bench,,128556,154268,2005485
+EMP1520,Richard Nichols,Engineering,Analyst,L5,2022-11-01,3.75,1418262,High,0,,8,Training,PRJ135,118188,43638,2552871
+EMP1521,James Fritz,HR,Senior Manager,L2,2022-12-09,3.64,1030897,High,0,,4,Billed,PRJ112,85908,15859,1855614
+EMP1522,Jackson Martinez,Sales,Senior Analyst,L3,2026-05-13,0.22,911401,Average,1,2026-06-20,25,Bench,,75950,87634,1184821
+EMP1523,Erica Allen MD,HR,Senior Manager,L2,2021-05-01,5.25,936009,Average,0,,22,Bench,,78000,79200,1216811
+EMP1524,Holly Mendez,HR,Consultant,L4,2023-12-27,2.59,1084055,Average,0,,4,Training,PRJ142,90337,16677,1409271
+EMP1525,Chad Parrish,Consulting,Analyst,L2,2019-12-14,6.63,593162,Average,0,,30,Bench,,49430,68441,771110
+EMP1526,Thomas Brown,Sales,Manager,L4,2021-03-17,5.38,822787,Average,0,,15,Training,PRJ143,68565,47468,1069623
+EMP1527,James Byrd,HR,Senior Manager,L4,2023-10-15,2.79,399424,Low,0,,27,Bench,,33285,41478,319539
+EMP1528,Angela Lopez,Engineering,Manager,L4,2025-05-23,1.19,1019766,Average,1,2026-07-28,45,Bench,,84980,176497,1325695
+EMP1529,Thomas Roy,Engineering,Analyst,L2,2023-12-30,2.59,1094158,Average,0,,4,Billed,PRJ139,91179,16833,1422405
+EMP1530,Seth Dudley,Finance,Senior Manager,L3,2021-02-24,5.43,755044,Average,0,,0,Training,PRJ125,62920,0,981557
+EMP1531,Tyler Rodgers,Sales,Manager,L2,2021-06-07,5.15,1372196,High,1,2021-10-11,37,Bench,,114349,195274,2469952
+EMP1532,Nicole Hall,Sales,Manager,L3,2025-05-16,1.21,532270,High,0,,23,Bench,,44355,47085,958086
+EMP1533,Jennifer Schultz,Finance,Senior Manager,L3,2022-01-09,4.56,460687,Average,0,,30,Bench,,38390,53156,598893
+EMP1534,Carrie Randolph,HR,Analyst,L4,2019-04-28,7.26,967335,Average,0,,45,Bench,,80611,167423,1257535
+EMP1535,Maureen Andrews,Sales,Manager,L2,2022-10-02,3.83,1214129,High,0,,40,Bench,,101177,186789,2185432
+EMP1536,Michael Thompson,Engineering,Consultant,L3,2022-12-15,3.63,1405178,Low,0,,81,Bench,,117098,437766,1124142
+EMP1537,Amanda Lowe,Engineering,Senior Manager,L5,2019-02-07,7.48,762334,High,0,,19,Bench,,63527,55709,1372201
+EMP1538,Tammy Harris,Consulting,Senior Analyst,L3,2021-01-26,5.51,1223604,Low,0,,16,Bench,,101967,75298,978883
+EMP1539,Alexander Harris,Sales,Senior Analyst,L5,2019-12-12,6.64,888447,High,0,,12,Billed,PRJ119,74037,41005,1599204
+EMP1540,Derek Scott,HR,Analyst,L2,2024-07-21,2.03,848211,Average,0,,4,Training,PRJ113,70684,13049,1102674
+EMP1541,Mr. Mathew Jennings,Finance,Consultant,L2,2025-02-01,1.49,1165097,High,0,,21,Bench,,97091,94103,2097174
+EMP1542,Raymond Martin,Finance,Manager,L2,2019-06-25,7.1,1095696,High,0,,8,Training,PRJ137,91308,33713,1972252
+EMP1543,Terry Sullivan,HR,Senior Analyst,L3,2024-02-12,2.47,427082,Low,0,,63,Bench,,35590,103485,341665
+EMP1544,Dr. Charles Cooper,Operations,Analyst,L1,2026-04-08,0.31,1342962,Average,0,,21,Bench,,111913,108470,1745850
+EMP1545,Katherine Carter,Consulting,Consultant,L3,2019-07-16,7.05,1314027,High,0,,22,Bench,,109502,111186,2365248
+EMP1546,Zachary Miller,Finance,Consultant,L3,2020-12-30,5.59,712331,Average,0,,10,Training,PRJ129,59360,27397,926030
+EMP1547,Ann Davis,Sales,Analyst,L4,2022-06-25,4.1,1018741,High,0,,1,Training,PRJ128,84895,3918,1833733
+EMP1548,Brian Lee,Consulting,Analyst,L4,2025-10-14,0.79,1048209,Average,0,,0,Billed,PRJ132,87350,0,1362671
+EMP1549,Nancy Campbell,Sales,Manager,L3,2019-01-13,7.55,978202,Average,0,,13,Training,PRJ147,81516,48910,1271662
+EMP1550,Jennifer Sanders,Engineering,Analyst,L5,2020-06-28,6.09,734908,Average,0,,2,Billed,PRJ142,61242,5653,955380
+EMP1551,Nichole Young,Consulting,Manager,L4,2024-09-18,1.87,698512,Average,0,,23,Bench,,58209,61791,908065
+EMP1552,Dylan Wright,Finance,Manager,L3,2023-09-07,2.9,892333,High,0,,53,Bench,,74361,181898,1606199
+EMP1553,Gary Henderson,Consulting,Senior Manager,L1,2019-08-19,6.95,1251818,Average,0,,53,Bench,,104318,255178,1627363
+EMP1554,Michael Gill,Consulting,Consultant,L5,2025-03-06,1.4,1063080,Average,0,,26,Bench,,88590,106308,1382004
+EMP1555,Michelle Beasley,Consulting,Consultant,L2,2023-04-30,3.25,788815,Average,0,,5,Billed,PRJ118,65734,15169,1025459
+EMP1556,Chris Hatfield,Operations,Consultant,L3,2025-06-30,1.08,1131509,Average,0,,49,Bench,,94292,213245,1470961
+EMP1557,John Andersen,Consulting,Senior Manager,L3,2021-12-07,4.65,300000,High,0,,54,Bench,,25000,62307,540000
+EMP1558,Jacob Carpenter,Sales,Manager,L5,2019-01-25,7.52,1244629,High,0,,5,Training,PRJ105,103719,23935,2240332
+EMP1559,Michelle Marshall,Engineering,Manager,L4,2021-08-03,4.99,378085,Average,0,,33,Bench,,31507,47987,491510
+EMP1560,Alvin Butler,HR,Analyst,L4,2026-05-20,0.2,791267,High,0,,8,Billed,PRJ143,65938,24346,1424280
+EMP1561,Pamela Thomas,Consulting,Senior Manager,L4,2019-03-13,7.39,564099,High,0,,40,Bench,,47008,86784,1015378
+EMP1562,Jennifer Klein,Finance,Analyst,L2,2021-07-12,5.05,511595,Average,0,,147,Bench,,42632,289247,665073
+EMP1563,Jennifer Blankenship,Consulting,Senior Manager,L5,2021-04-21,5.28,1248248,High,0,,0,Training,PRJ114,104020,0,2246846
+EMP1564,Amy Graves,Finance,Analyst,L5,2022-03-21,4.36,759689,Average,0,,56,Bench,,63307,163625,987595
+EMP1565,Laura Knapp,Sales,Senior Analyst,L4,2021-10-07,4.82,1003951,Low,0,,24,Bench,,83662,92672,803160
+EMP1566,Ronnie Holloway,Finance,Consultant,L4,2026-04-28,0.26,885923,High,0,,90,Bench,,73826,306665,1594661
+EMP1567,Rebecca Chen,HR,Consultant,L1,2024-12-05,1.65,1043112,Average,0,,15,Billed,PRJ109,86926,60179,1356045
+EMP1568,Laura Hoffman,Engineering,Manager,L1,2023-08-28,2.93,923046,High,0,,46,Bench,,76920,163308,1661482
+EMP1569,Andrea Miller,Finance,Senior Analyst,L3,2023-11-08,2.73,515102,High,0,,1,Billed,PRJ102,42925,1981,927183
+EMP1570,Mark Bryant,Finance,Consultant,L3,2020-03-01,6.42,1198880,Low,0,,10,Billed,PRJ130,99906,46110,959104
+EMP1571,Rebecca Acosta,Engineering,Manager,L5,2024-05-04,2.24,751873,High,0,,1,Billed,PRJ129,62656,2891,1353371
+EMP1572,Michael Pollard,HR,Senior Analyst,L5,2022-02-09,4.47,433025,Average,0,,92,Bench,,36085,153224,562932
+EMP1573,Carla Christian,Consulting,Consultant,L2,2023-06-18,3.12,771565,Average,0,,42,Bench,,64297,124637,1003034
+EMP1574,Jeremy Barrett,Finance,Analyst,L2,2026-03-31,0.33,1350227,Average,0,,47,Bench,,112518,244079,1755295
+EMP1575,Joshua Thompson,Engineering,Senior Manager,L1,2026-02-01,0.49,1155066,High,0,,69,Bench,,96255,306536,2079118
+EMP1576,Kimberly Powell,Sales,Senior Analyst,L3,2019-06-06,7.16,795404,Low,0,,2,Training,PRJ140,66283,6118,636323
+EMP1577,Robert Murphy PhD,Engineering,Manager,L1,2023-03-22,3.36,795222,Average,0,,12,Billed,PRJ145,66268,36702,1033788
+EMP1578,Allen Frazier,Sales,Senior Analyst,L1,2022-01-22,4.52,803509,Average,0,,1,Training,PRJ131,66959,3090,1044561
+EMP1579,Matthew Thomas,HR,Manager,L3,2020-09-04,5.91,1523024,Average,0,,5,Training,PRJ115,126918,29288,1979931
+EMP1580,Cole Nguyen,Consulting,Senior Analyst,L2,2023-07-04,3.08,1014580,Average,0,,6,Billed,PRJ141,84548,23413,1318954
+EMP1581,Lauren Robinson,Engineering,Manager,L3,2020-09-24,5.85,1029012,Low,0,,15,Billed,PRJ148,85751,59366,823209
+EMP1582,Shelly Snyder DDS,Operations,Consultant,L4,2019-05-06,7.24,1209085,Average,0,,7,Billed,PRJ149,100757,32552,1571810
+EMP1583,Scott Taylor,Finance,Analyst,L4,2024-08-13,1.96,971636,Average,0,,2,Training,PRJ114,80969,7474,1263126
+EMP1584,Andrea Manning,HR,Consultant,L4,2025-09-17,0.87,822287,High,0,,4,Billed,PRJ144,68523,12650,1480116
+EMP1585,Jeffrey Anderson,Engineering,Analyst,L5,2026-06-25,0.1,841095,Average,0,,3,Training,PRJ103,70091,9704,1093423
+EMP1586,Paul Harrell,Finance,Consultant,L2,2021-11-15,4.71,878519,Average,0,,90,Bench,,73209,304102,1142074
+EMP1587,Matthew Jackson,Engineering,Consultant,L2,2022-11-22,3.69,888833,High,1,2025-05-30,35,Bench,,74069,119650,1599899
+EMP1588,Mitchell Boyd,Sales,Senior Analyst,L5,2019-07-15,7.05,1118288,Low,0,,85,Bench,,93190,365594,894630
+EMP1589,Robin Curry,Engineering,Senior Manager,L1,2019-02-23,7.44,915583,High,0,,14,Billed,PRJ107,76298,49300,1648049
+EMP1590,Ryan Tate,Operations,Manager,L4,2026-05-04,0.24,1119792,Average,0,,8,Training,PRJ108,93316,34455,1455729
+EMP1591,Keith Snow,Engineering,Manager,L4,2025-11-04,0.74,875785,High,0,,40,Bench,,72982,134736,1576413
+EMP1592,Linda Howell,Engineering,Manager,L1,2020-10-06,5.82,923590,Average,0,,9,Training,PRJ142,76965,31970,1200667
+EMP1593,Ryan George DDS,Operations,Analyst,L3,2023-09-14,2.88,300539,Low,0,,8,Training,PRJ148,25044,9247,240431
+EMP1594,Donald Wright,HR,Manager,L3,2021-04-17,5.29,1174898,Average,0,,6,Training,PRJ139,97908,27113,1527367
+EMP1595,Angela Johnson,Engineering,Manager,L2,2021-05-20,5.2,1003946,High,0,,3,Training,PRJ135,83662,11583,1807102
+EMP1596,Christine Taylor,Operations,Senior Analyst,L5,2024-04-18,2.28,1199403,Average,0,,7,Training,PRJ110,99950,32291,1559223
+EMP1597,Andrew Gibbs,Finance,Consultant,L2,2022-06-12,4.14,300000,Low,0,,10,Training,PRJ128,25000,11538,240000
+EMP1598,Thomas Schwartz,Sales,Manager,L3,2019-01-15,7.55,1526512,High,0,,28,Bench,,127209,164393,2747721
+EMP1599,Danielle Mathews,Sales,Senior Manager,L1,2022-05-03,4.25,858123,High,0,,1,Training,PRJ148,71510,3300,1544621
+EMP1600,Manuel Oconnell,Engineering,Manager,L2,2021-05-25,5.19,1232454,Average,0,,5,Billed,PRJ140,102704,23701,1602190
+EMP1601,Kayla Johnson,HR,Analyst,L4,2024-08-10,1.97,588028,High,0,,41,Bench,,49002,92727,1058450
+EMP1602,Erik Barnes,HR,Analyst,L4,2022-10-01,3.83,1083832,High,0,,3,Training,PRJ149,90319,12505,1950897
+EMP1603,Vanessa Mays,Finance,Analyst,L1,2025-04-24,1.27,583975,Average,0,,10,Training,PRJ140,48664,22460,759167
+EMP1604,Keith Gonzalez,Engineering,Manager,L3,2025-03-02,1.41,712869,Low,0,,49,Bench,,59405,134348,570295
+EMP1605,Kathleen Drake,Sales,Senior Analyst,L4,2024-08-30,1.92,1474209,Average,0,,4,Billed,PRJ117,122850,22680,1916471
+EMP1606,Andrew Smith,HR,Senior Manager,L4,2021-01-17,5.54,842795,Low,0,,2,Training,PRJ104,70232,6483,674236
+EMP1607,Cynthia Grant,Engineering,Manager,L5,2020-08-15,5.96,965229,Average,0,,16,Bench,,80435,59398,1254797
+EMP1608,Deanna Lopez,HR,Senior Analyst,L2,2018-11-22,7.69,1161020,Average,0,,9,Training,PRJ115,96751,40189,1509326
+EMP1609,Jasmine Lopez,Operations,Senior Analyst,L3,2018-10-20,7.78,1048704,Low,1,2024-05-14,20,Bench,,87392,80669,838963
+EMP1610,Whitney Taylor,HR,Manager,L2,2023-04-28,3.26,945125,Average,1,2023-12-13,40,Bench,,78760,145403,1228662
+EMP1611,Alexis Newman,Sales,Manager,L3,2023-03-31,3.34,1009488,Low,0,,3,Training,PRJ121,84124,11647,807590
+EMP1612,Frederick Baker,Consulting,Senior Analyst,L4,2019-08-22,6.95,1621024,High,0,,21,Bench,,135085,130928,2917843
+EMP1613,Mark Cruz,Finance,Senior Analyst,L5,2023-09-26,2.85,882714,High,0,,17,Bench,,73559,57715,1588885
+EMP1614,Brandon Green,Finance,Senior Analyst,L2,2019-06-16,7.13,960329,Low,0,,3,Training,PRJ134,80027,11080,768263
+EMP1615,Allison Hall,Sales,Manager,L4,2020-01-14,6.55,1215196,High,0,,24,Bench,,101266,112171,2187352
+EMP1616,Steven Williams,HR,Senior Analyst,L3,2021-03-17,5.38,1231657,Average,0,,7,Billed,PRJ108,102638,33159,1601154
+EMP1617,Cole Galloway,Engineering,Analyst,L2,2022-02-01,4.5,1256109,Average,0,,16,Bench,,104675,77299,1632941
+EMP1618,Jennifer Nixon,HR,Manager,L2,2023-08-20,2.95,1091619,Low,1,2025-11-25,2,Billed,PRJ114,90968,8397,873295
+EMP1619,Dr. Jennifer Jones,Sales,Analyst,L4,2020-04-15,6.3,557098,Average,1,2022-06-26,15,Training,PRJ144,46424,32140,724227
+EMP1620,Robin Oneill,Finance,Consultant,L2,2022-11-25,3.68,1390029,High,0,,9,Billed,PRJ145,115835,48116,2502052
+EMP1621,Michael Cook,HR,Manager,L5,2020-12-18,5.62,556096,Average,0,,43,Bench,,46341,91969,722924
+EMP1622,Erika Neal,Finance,Consultant,L5,2024-02-17,2.45,990790,Low,1,2024-05-02,1,Billed,PRJ104,82565,3810,792632
+EMP1623,Sarah Velez,Engineering,Senior Analyst,L4,2024-03-27,2.35,673717,Low,0,,13,Training,PRJ126,56143,33685,538973
+EMP1624,Jeremiah Burton,Finance,Senior Analyst,L3,2020-07-29,6.01,880758,Average,0,,15,Training,PRJ134,73396,50812,1144985
+EMP1625,Theresa Lee,Finance,Senior Manager,L4,2023-10-23,2.77,998628,Average,0,,32,Bench,,83219,122908,1298216
+EMP1626,Russell Jennings,Consulting,Senior Analyst,L5,2025-06-15,1.13,996407,Average,0,,21,Bench,,83033,80479,1295329
+EMP1627,Christopher Harper,Consulting,Consultant,L1,2019-02-10,7.47,1026576,Average,0,,27,Bench,,85548,106605,1334548
+EMP1628,Elizabeth Shaffer,Operations,Senior Analyst,L1,2019-02-20,7.45,1384113,High,0,,37,Bench,,115342,196969,2491403
+EMP1629,Edward White,Consulting,Manager,L2,2026-05-11,0.22,1036060,High,0,,49,Bench,,86338,195257,1864908
+EMP1630,Matthew Brown,Finance,Senior Analyst,L2,2023-04-24,3.27,826753,Average,0,,9,Training,PRJ126,68896,28618,1074778
+EMP1631,David Douglas,Sales,Senior Manager,L1,2025-01-29,1.5,1189226,High,0,,19,Bench,,99102,86904,2140606
+EMP1632,Barbara Harris,Finance,Senior Analyst,L5,2026-06-19,0.12,1256841,Average,0,,45,Bench,,104736,217530,1633893
+EMP1633,Mary Allen,Sales,Consultant,L2,2021-09-24,4.85,531717,Average,0,,113,Bench,,44309,231092,691232
+EMP1634,Ernest Brown,Sales,Consultant,L4,2023-03-28,3.35,1079220,Average,0,,55,Bench,,89935,228296,1402986
+EMP1635,Veronica Thomas,Consulting,Senior Analyst,L4,2021-10-10,4.81,1110351,Average,0,,11,Billed,PRJ113,92529,46976,1443456
+EMP1636,Amber Hernandez,HR,Consultant,L5,2021-12-12,4.64,810730,High,0,,5,Training,PRJ124,67560,15590,1459314
+EMP1637,Sandra Hill,Engineering,Consultant,L2,2023-12-27,2.59,1312712,Average,0,,16,Bench,,109392,80782,1706525
+EMP1638,James Marsh,Consulting,Senior Manager,L4,2023-11-01,2.75,854983,Average,1,2025-05-02,33,Bench,,71248,108517,1111477
+EMP1639,Heather Odom,Consulting,Manager,L2,2020-02-09,6.48,937672,Average,0,,16,Bench,,78139,57702,1218973
+EMP1640,Amy Mann,HR,Senior Manager,L2,2022-04-04,4.33,848078,Low,1,2024-11-23,16,Bench,,70673,52189,678462
+EMP1641,Alexandra Jones,Engineering,Analyst,L4,2019-04-22,7.28,904673,High,0,,45,Bench,,75389,156578,1628411
+EMP1642,Angela Hernandez,Finance,Senior Manager,L1,2021-11-19,4.7,571117,Average,0,,11,Billed,PRJ148,47593,24162,742452
+EMP1643,Christine Robinson,Operations,Senior Analyst,L4,2026-01-25,0.51,467984,Average,0,,49,Bench,,38998,88196,608379
+EMP1644,Austin Todd,Operations,Manager,L5,2023-04-25,3.27,1378351,Average,0,,13,Training,PRJ130,114862,68917,1791856
+EMP1645,Todd Nunez,Finance,Senior Analyst,L3,2021-05-07,5.24,645911,Average,1,2026-01-25,9,Billed,PRJ122,53825,22358,839684
+EMP1646,Randy Wood,Consulting,Analyst,L4,2020-04-01,6.33,602582,Low,0,,15,Training,PRJ148,50215,34764,482065
+EMP1647,Cindy Wilson,Engineering,Manager,L2,2019-01-05,7.57,300000,Average,0,,35,Bench,,25000,40384,390000
+EMP1648,Ryan Welch,Consulting,Consultant,L2,2025-08-16,0.96,708311,Average,0,,3,Training,PRJ126,59025,8172,920804
+EMP1649,Kurt Martin,Sales,Senior Manager,L4,2022-04-16,4.29,503073,Average,0,,5,Billed,PRJ131,41922,9674,653994
+EMP1650,Angela Shelton,Consulting,Senior Analyst,L3,2022-03-07,4.4,1392604,High,0,,75,Bench,,116050,401712,2506687
+EMP1651,Monique Hayes,Consulting,Analyst,L4,2021-05-18,5.21,1202945,High,0,,4,Billed,PRJ117,100245,18506,2165301
+EMP1652,Tiffany Anderson,Finance,Consultant,L3,2022-09-14,3.88,693554,Average,0,,20,Bench,,57796,53350,901620
+EMP1653,Brian Woodard,Finance,Senior Manager,L3,2025-12-11,0.64,1575730,Average,0,,21,Bench,,131310,127270,2048449
+EMP1654,Anthony Butler,Finance,Consultant,L5,2023-11-12,2.72,1194529,Low,0,,16,Bench,,99544,73509,955623
+EMP1655,Michael Jacobs,Operations,Senior Manager,L2,2024-06-09,2.14,802550,High,0,,25,Bench,,66879,77168,1444590
+EMP1656,Patrick Foster,Sales,Manager,L2,2019-02-12,7.47,300000,Average,0,,6,Training,PRJ131,25000,6923,390000
+EMP1657,Jose Hall,Finance,Consultant,L3,2019-08-14,6.97,1587282,Average,0,,20,Bench,,132273,122098,2063466
+EMP1658,Nicole Anderson,Engineering,Consultant,L2,2026-05-07,0.23,483128,Average,0,,11,Billed,PRJ124,40260,20440,628066
+EMP1659,Spencer Garner,Operations,Consultant,L1,2021-04-01,5.33,406380,Low,0,,27,Bench,,33865,42201,325104
+EMP1660,Courtney David,HR,Manager,L3,2024-07-11,2.05,1206771,Average,0,,3,Training,PRJ142,100564,13924,1568802
+EMP1661,Herbert Moore,Engineering,Analyst,L2,2021-11-12,4.72,1631925,Low,1,2025-09-15,21,Bench,,135993,131809,1305540
+EMP1662,John Davis,Engineering,Senior Manager,L1,2019-02-02,7.5,1315281,Average,0,,5,Training,PRJ146,109606,25293,1709865
+EMP1663,Jordan Smith,Finance,Consultant,L5,2025-04-10,1.31,1069172,Average,0,,8,Billed,PRJ129,89097,32897,1389923
+EMP1664,Christopher Smith,HR,Manager,L2,2026-01-03,0.57,1078426,Low,0,,6,Billed,PRJ139,89868,24886,862740
+EMP1665,Erik Velazquez,HR,Analyst,L1,2023-02-13,3.46,1156024,Average,0,,5,Billed,PRJ125,96335,22231,1502831
+EMP1666,Tanya Mann,Operations,Senior Manager,L4,2024-08-13,1.96,1127678,Low,1,2025-03-10,43,Bench,,93973,186500,902142
+EMP1667,Nicole Le,HR,Manager,L4,2019-04-24,7.27,984357,Average,0,,8,Billed,PRJ105,82029,30287,1279664
+EMP1668,Todd Myers,Sales,Senior Manager,L1,2021-12-06,4.65,931260,Average,1,2022-12-02,65,Bench,,77605,232815,1210638
+EMP1669,Devin James,Finance,Consultant,L3,2023-04-29,3.26,881222,Low,0,,87,Bench,,73435,294870,704977
+EMP1670,Dr. Jeremiah Johnson,HR,Analyst,L3,2021-08-11,4.97,673810,High,0,,21,Bench,,56150,54423,1212858
+EMP1671,Richard Morrison,Operations,Manager,L2,2025-09-30,0.83,815797,Low,0,,3,Training,PRJ108,67983,9413,652637
+EMP1672,Barry Gray,Sales,Analyst,L4,2019-03-31,7.34,392112,Average,0,,11,Training,PRJ111,32676,16589,509745
+EMP1673,Alyssa Smith,Consulting,Consultant,L3,2022-04-15,4.3,870498,Average,0,,39,Bench,,72541,130574,1131647
+EMP1674,Troy Lopez,Consulting,Analyst,L3,2025-03-27,1.35,603422,Average,0,,11,Billed,PRJ116,50285,25529,784448
+EMP1675,Christine Rivers,Sales,Analyst,L4,2024-03-13,2.38,568923,Low,0,,2,Training,PRJ120,47410,4376,455138
+EMP1676,Bill Harris,Operations,Senior Analyst,L5,2023-02-16,3.45,953968,Average,0,,20,Bench,,79497,73382,1240158
+EMP1677,Patrick Hines,Sales,Analyst,L3,2023-07-27,3.01,1317600,Average,0,,46,Bench,,109800,233113,1712880
+EMP1678,Daniel Dominguez,Finance,Senior Manager,L1,2025-06-01,1.16,1175494,High,0,,39,Bench,,97957,176324,2115889
+EMP1679,Alexis Thomas,Finance,Manager,L2,2025-01-11,1.55,428849,Average,0,,4,Billed,PRJ129,35737,6597,557503
+EMP1680,Michael Lyons,Consulting,Senior Analyst,L3,2025-12-10,0.64,603111,High,0,,27,Bench,,50259,62630,1085599
+EMP1681,Marc Dawson,HR,Manager,L3,2022-07-23,4.02,1182231,High,0,,6,Training,PRJ121,98519,27282,2128015
+EMP1682,Erica Norton DVM,Operations,Manager,L5,2020-08-28,5.93,605253,Average,0,,6,Training,PRJ117,50437,13967,786828
+EMP1683,David Cook,Consulting,Consultant,L1,2020-06-26,6.1,832610,High,0,,51,Bench,,69384,163319,1498698
+EMP1684,Rachael Coleman,HR,Consultant,L2,2022-04-08,4.32,1065015,Average,1,2026-05-23,7,Training,PRJ116,88751,28673,1384519
+EMP1685,Tammy Mendoza,HR,Senior Analyst,L3,2025-07-02,1.08,609496,High,0,,7,Billed,PRJ130,50791,16409,1097092
+EMP1686,Jesus Harrington,Finance,Consultant,L2,2022-02-15,4.46,931612,Low,0,,0,Billed,PRJ147,77634,0,745289
+EMP1687,Jenny Ray,Engineering,Consultant,L4,2019-10-04,6.83,499792,Average,0,,51,Bench,,41649,98036,649729
+EMP1688,Donald Logan,Engineering,Consultant,L3,2025-04-16,1.29,719589,Average,0,,39,Bench,,59965,107938,935465
+EMP1689,William Jones,Sales,Manager,L3,2021-03-23,5.36,995934,Average,0,,24,Bench,,82994,91932,1294714
+EMP1690,Bryan Golden,Finance,Senior Analyst,L4,2021-04-20,5.28,422101,Average,0,,34,Bench,,35175,55197,548731
+EMP1691,Brandon Jones,HR,Manager,L5,2020-02-22,6.44,1032142,Average,0,,4,Billed,PRJ122,86011,15879,1341784
+EMP1692,Erica Gonzales,Operations,Senior Manager,L3,2019-07-25,7.02,894108,Low,1,2021-02-28,15,Billed,PRJ141,74509,51583,715286
+EMP1693,Michael Odonnell,Engineering,Manager,L2,2019-03-12,7.39,1065746,Average,0,,10,Billed,PRJ149,88812,40990,1385469
+EMP1694,Kim Hamilton,HR,Senior Manager,L1,2018-11-17,7.71,967174,Average,0,,2,Billed,PRJ148,80597,7439,1257326
+EMP1695,John Howard,Engineering,Analyst,L2,2018-11-10,7.73,1309242,Average,1,2020-05-18,16,Bench,,109103,80568,1702014
+EMP1696,Timothy Robbins,Engineering,Analyst,L5,2022-09-18,3.87,937567,High,0,,63,Bench,,78130,227179,1687620
+EMP1697,Heather Fisher,Engineering,Senior Manager,L1,2019-11-20,6.7,771178,High,0,,1,Billed,PRJ115,64264,2966,1388120
+EMP1698,Hannah Dillon,Operations,Senior Manager,L2,2022-04-09,4.31,936689,High,0,,8,Billed,PRJ101,78057,28821,1686040
+EMP1699,Ashley Garrison,Finance,Manager,L2,2021-06-09,5.15,1062989,Average,0,,5,Billed,PRJ115,88582,20442,1381885
+EMP1700,Michael Vaughn,Operations,Senior Manager,L4,2020-11-01,5.75,914658,Average,1,2023-11-19,6,Billed,PRJ130,76221,21107,1189055
+EMP1701,Sherry Rodriguez,Consulting,Senior Analyst,L5,2020-10-21,5.78,912177,Low,0,,59,Bench,,76014,206994,729741
+EMP1702,Robert Salinas,HR,Analyst,L4,2018-12-05,7.66,689402,High,0,,15,Billed,PRJ136,57450,39773,1240923
+EMP1703,Christopher Phillips,Finance,Analyst,L1,2026-05-16,0.21,701129,Average,0,,15,Billed,PRJ129,58427,40449,911467
+EMP1704,Desiree Andrade,Finance,Senior Manager,L4,2021-03-04,5.41,479218,Low,0,,35,Bench,,39934,64510,383374
+EMP1705,Todd Valenzuela,Finance,Consultant,L5,2021-10-03,4.83,1424873,Average,0,,4,Training,PRJ149,118739,21921,1852334
+EMP1706,Leslie Dennis,Finance,Consultant,L3,2023-10-30,2.75,526841,High,0,,16,Bench,,43903,32420,948313
+EMP1707,Christine Kelley,Operations,Senior Manager,L3,2025-12-02,0.66,692128,Average,0,,14,Training,PRJ110,57677,37268,899766
+EMP1708,Alyssa Foster,Finance,Senior Analyst,L1,2022-01-10,4.56,684477,Average,0,,22,Bench,,57039,57917,889820
+EMP1709,James Davidson,Sales,Consultant,L3,2020-08-14,5.96,1168477,Average,0,,193,Bench,,97373,867369,1519020
+EMP1710,Alex Smith,HR,Senior Manager,L4,2022-06-26,4.1,811515,Average,0,,36,Bench,,67626,112363,1054969
+EMP1711,Phillip Mcdonald,Finance,Senior Analyst,L1,2020-10-16,5.79,1274322,Average,0,,12,Billed,PRJ149,106193,58814,1656618
+EMP1712,Jessica Townsend,HR,Senior Analyst,L5,2023-04-28,3.26,697952,Average,0,,43,Bench,,58162,115430,907337
+EMP1713,Dennis Cole,Sales,Manager,L1,2018-09-26,7.85,983698,Low,1,2024-08-26,4,Billed,PRJ119,81974,15133,786958
+EMP1714,Donald George,Sales,Senior Analyst,L1,2021-09-25,4.85,649395,High,0,,0,Billed,PRJ137,54116,0,1168911
+EMP1715,Albert Osborne,HR,Consultant,L2,2020-07-16,6.04,1543544,Average,0,,5,Billed,PRJ119,128628,29683,2006607
+EMP1716,Jerry Murphy,Engineering,Consultant,L2,2026-03-05,0.41,543720,High,0,,10,Training,PRJ125,45310,20912,978696
+EMP1717,Martin Peterson,Consulting,Senior Manager,L1,2024-04-20,2.28,992946,High,0,,17,Bench,,82745,64923,1787302
+EMP1718,Alyssa Pitts,Engineering,Senior Manager,L3,2022-03-13,4.39,1090133,Average,0,,23,Bench,,90844,96434,1417172
+EMP1719,Melanie Ramirez,Engineering,Senior Analyst,L2,2024-01-30,2.5,1024139,Average,0,,60,Bench,,85344,236339,1331380
+EMP1720,Brian Fleming,Operations,Analyst,L5,2020-12-22,5.61,844413,Average,0,,17,Bench,,70367,55211,1097736
+EMP1721,Marcus Foster,Engineering,Manager,L4,2025-04-21,1.28,861053,High,0,,17,Bench,,71754,56299,1549895
+EMP1722,Candice Hughes,Finance,Analyst,L2,2020-09-13,5.88,913143,Average,0,,1,Billed,PRJ104,76095,3512,1187085
+EMP1723,Tracy Rhodes,Operations,Senior Analyst,L1,2020-11-21,5.69,855899,Average,0,,0,Billed,PRJ106,71324,0,1112668
+EMP1724,Angela Young,Operations,Senior Analyst,L3,2021-03-05,5.41,1189163,Average,0,,20,Bench,,99096,91474,1545911
+EMP1725,Sarah Bray,Sales,Analyst,L4,2022-07-04,4.08,1563156,Average,0,,14,Training,PRJ143,130263,84169,2032102
+EMP1726,John Russell,Engineering,Manager,L2,2023-12-01,2.67,732752,Low,0,,45,Bench,,61062,126822,586201
+EMP1727,Kevin Spence,Sales,Analyst,L3,2019-04-25,7.27,489059,Average,0,,4,Billed,PRJ136,40754,7523,635776
+EMP1728,Beth Hammond,HR,Senior Manager,L3,2023-06-06,3.15,873515,Average,0,,0,Billed,PRJ122,72792,0,1135569
+EMP1729,Leslie Espinoza,Consulting,Consultant,L3,2018-08-09,7.98,1673912,Average,0,,14,Training,PRJ142,139492,90133,2176085
+EMP1730,Latoya Koch,Operations,Senior Manager,L1,2023-05-23,3.19,658897,Average,0,,6,Training,PRJ104,54908,15205,856566
+EMP1731,Kenneth Martin,HR,Consultant,L5,2023-01-17,3.54,1391735,Average,0,,1,Training,PRJ100,115977,5352,1809255
+EMP1732,James Medina,HR,Senior Analyst,L3,2018-12-29,7.59,1403310,Average,0,,32,Bench,,116942,172715,1824303
+EMP1733,James Gray,Finance,Manager,L4,2025-01-23,1.52,733923,Average,0,,2,Training,PRJ131,61160,5645,954099
+EMP1734,Tracy Lee,Consulting,Analyst,L2,2025-10-30,0.75,1070694,High,0,,23,Bench,,89224,94715,1927249
+EMP1735,Elizabeth Henry,HR,Manager,L4,2021-05-26,5.18,1388518,Average,0,,8,Billed,PRJ127,115709,42723,1805073
+EMP1736,Patricia Johnson,HR,Analyst,L1,2025-01-16,1.54,786261,Average,0,,4,Training,PRJ140,65521,12096,1022139
+EMP1737,Victoria Stone,Consulting,Senior Manager,L1,2025-04-03,1.33,838925,Low,1,2025-07-10,11,Training,PRJ145,69910,35492,671140
+EMP1738,Aaron Hayes,Consulting,Senior Manager,L4,2022-05-08,4.23,725495,Low,0,,40,Bench,,60457,111614,580396
+EMP1739,Tony Thompson,HR,Analyst,L5,2025-07-18,1.04,595572,Average,0,,12,Billed,PRJ127,49631,27487,774243
+EMP1740,Thomas Morales,Consulting,Manager,L1,2021-05-31,5.17,705216,Average,0,,34,Bench,,58768,92220,916780
+EMP1741,Michael Jones,HR,Analyst,L1,2020-03-25,6.35,532817,High,0,,3,Billed,PRJ146,44401,6147,959070
+EMP1742,Angela Fox MD,HR,Senior Analyst,L4,2024-06-07,2.15,910225,Low,1,2025-09-23,37,Bench,,75852,129532,728180
+EMP1743,Alexander Suarez,Finance,Senior Manager,L1,2018-07-31,8.01,669008,Average,0,,6,Training,PRJ139,55750,15438,869710
+EMP1744,Mrs. Tammy Todd MD,Engineering,Senior Analyst,L5,2021-02-15,5.46,970135,Average,0,,28,Bench,,80844,104476,1261175
+EMP1745,Jesse White,HR,Senior Manager,L5,2023-05-14,3.22,433231,Low,0,,20,Bench,,36102,33325,346584
+EMP1746,Dalton Jones,Sales,Senior Manager,L5,2024-01-18,2.53,999264,Low,0,,66,Bench,,83272,253659,799411
+EMP1747,James Jackson,Operations,Consultant,L2,2022-07-06,4.07,1150058,Average,0,,12,Training,PRJ129,95838,53079,1495075
+EMP1748,Tyrone Lane,Engineering,Senior Analyst,L5,2019-03-13,7.39,301879,Average,0,,1,Training,PRJ146,25156,1161,392442
+EMP1749,Victoria Frazier,Engineering,Senior Analyst,L5,2026-01-10,0.55,1012216,Average,1,2026-03-01,0,Training,PRJ120,84351,0,1315880
+EMP1750,Mark Graham,Engineering,Consultant,L2,2026-05-02,0.25,1268300,Average,0,,43,Bench,,105691,209757,1648790
+EMP1751,Abigail Vasquez,Finance,Manager,L3,2023-12-11,2.64,537107,Average,0,,18,Bench,,44758,37184,698239
+EMP1752,Patricia Lucas,HR,Senior Analyst,L1,2021-08-25,4.93,1401771,Low,0,,37,Bench,,116814,199482,1121416
+EMP1753,Kerry Schultz,Finance,Analyst,L5,2025-06-11,1.14,1025705,Average,0,,6,Billed,PRJ105,85475,23670,1333416
+EMP1754,April Kent,HR,Consultant,L1,2026-06-24,0.1,688496,High,0,,10,Training,PRJ128,57374,26480,1239292
+EMP1755,Matthew Cruz,Finance,Senior Analyst,L4,2023-08-21,2.95,883269,Average,0,,0,Billed,PRJ148,73605,0,1148249
+EMP1756,Maurice Garner,Finance,Manager,L1,2026-03-07,0.4,1067498,Average,0,,81,Bench,,88958,332566,1387747
+EMP1757,Curtis Rivera PhD,Operations,Senior Analyst,L2,2024-03-01,2.42,922801,Average,0,,27,Bench,,76900,95829,1199641
+EMP1758,Anna Sandoval,Sales,Senior Manager,L1,2024-03-16,2.38,1061626,High,0,,67,Bench,,88468,273572,1910926
+EMP1759,David Terry,Finance,Analyst,L1,2026-01-08,0.56,623797,High,1,2026-03-10,7,Training,PRJ136,51983,16794,1122834
+EMP1760,Keith Mora,Operations,Consultant,L1,2019-04-09,7.32,950808,Average,0,,23,Bench,,79234,84109,1236050
+EMP1761,John Simmons,Consulting,Senior Manager,L3,2021-08-09,4.98,475885,High,0,,28,Bench,,39657,51249,856593
+EMP1762,Christopher Jenkins,Sales,Manager,L3,2020-03-28,6.35,866632,Low,0,,9,Training,PRJ121,72219,29998,693305
+EMP1763,Heather Escobar,Finance,Senior Manager,L4,2019-05-31,7.17,628827,Low,0,,47,Bench,,52402,113672,503061
+EMP1764,Mark Moses,Engineering,Senior Manager,L2,2024-05-23,2.19,679341,High,0,,73,Bench,,56611,190738,1222813
+EMP1765,Mrs. Grace Miller PhD,Consulting,Manager,L1,2020-04-16,6.29,1270827,High,0,,54,Bench,,105902,263940,2287488
+EMP1766,Dr. Stephanie Hernandez,Consulting,Senior Manager,L1,2018-10-20,7.78,1227393,Low,1,2020-01-29,33,Bench,,102282,155784,981914
+EMP1767,Margaret Guerra,Operations,Consultant,L1,2019-01-15,7.55,1082741,Average,0,,8,Billed,PRJ131,90228,33315,1407563
+EMP1768,Vicki Turner,Consulting,Senior Analyst,L1,2022-08-16,3.96,572306,Low,1,2026-06-23,8,Training,PRJ111,47692,17609,457844
+EMP1769,Carrie May,Sales,Senior Manager,L3,2022-11-14,3.71,805077,Average,0,,82,Bench,,67089,253908,1046600
+EMP1770,April Scott,Finance,Consultant,L4,2019-06-18,7.12,1263929,High,0,,0,Training,PRJ113,105327,0,2275072
+EMP1771,Edward Garcia,Finance,Senior Analyst,L5,2020-05-10,6.23,942515,Average,0,,31,Bench,,78542,112376,1225269
+EMP1772,Jeffrey Bailey,Engineering,Senior Analyst,L2,2025-06-23,1.1,1595798,Average,0,,30,Bench,,132983,184130,2074537
+EMP1773,Jessica Gomez,Operations,Senior Manager,L1,2021-10-03,4.83,1017995,Average,0,,24,Bench,,84832,93968,1323393
+EMP1774,Cheryl Williams,Engineering,Consultant,L4,2020-02-29,6.42,957614,Low,0,,115,Bench,,79801,423560,766091
+EMP1775,Aaron Navarro,Consulting,Senior Manager,L5,2019-12-10,6.64,807265,Average,0,,9,Training,PRJ116,67272,27943,1049444
+EMP1776,John Parker,Engineering,Manager,L4,2021-05-22,5.19,940062,Average,0,,10,Training,PRJ117,78338,36156,1222080
+EMP1777,Carl Sutton,Sales,Senior Analyst,L3,2024-07-08,2.06,854259,High,1,2026-04-29,2,Training,PRJ135,71188,6571,1537666
+EMP1778,Aaron Jacobs,Finance,Senior Manager,L5,2025-06-24,1.1,1112432,High,0,,14,Billed,PRJ133,92702,59900,2002377
+EMP1779,Gregory Lopez,Consulting,Senior Analyst,L4,2019-07-04,7.08,1187010,Low,1,2019-11-12,7,Billed,PRJ105,98917,31957,949608
+EMP1780,Maria Austin,Engineering,Consultant,L3,2022-01-24,4.52,664203,High,0,,10,Billed,PRJ146,55350,25546,1195565
+EMP1781,Tiffany Miller,Operations,Analyst,L4,2021-09-26,4.85,500630,High,0,,44,Bench,,41719,84722,901134
+EMP1782,Katie Wood,Sales,Senior Manager,L4,2020-12-21,5.61,349138,High,0,,68,Bench,,29094,91313,628448
+EMP1783,Tammy Lawson,Sales,Senior Manager,L5,2026-03-11,0.39,1052397,Average,0,,5,Training,PRJ131,87699,20238,1368116
+EMP1784,Nicholas Hicks,Engineering,Senior Analyst,L3,2020-01-23,6.52,568990,Average,0,,11,Billed,PRJ144,47415,24072,739687
+EMP1785,Elizabeth Camacho,Finance,Consultant,L1,2023-02-24,3.43,300000,Average,0,,65,Bench,,25000,75000,390000
+EMP1786,Carolyn Dominguez,Engineering,Manager,L2,2021-03-22,5.36,1016573,Low,1,2023-09-23,1,Training,PRJ141,84714,3909,813258
+EMP1787,Kenneth Smith,Consulting,Consultant,L5,2019-12-16,6.63,1647899,Average,0,,2,Training,PRJ128,137324,12676,2142268
+EMP1788,Timothy Thomas,Engineering,Senior Manager,L3,2020-05-29,6.18,898178,Average,0,,4,Billed,PRJ105,74848,13818,1167631
+EMP1789,David Hernandez,Sales,Manager,L4,2019-10-24,6.77,1151547,Average,0,,22,Bench,,95962,97438,1497011
+EMP1790,Pamela Young,Engineering,Consultant,L3,2021-05-15,5.21,924548,Average,0,,4,Training,PRJ114,77045,14223,1201912
+EMP1791,Jeffrey Perez,Finance,Analyst,L2,2026-05-15,0.21,870333,Average,0,,86,Bench,,72527,287879,1131432
+EMP1792,Dr. Ricardo Williams,Operations,Senior Analyst,L2,2021-06-18,5.12,1175722,Low,0,,14,Training,PRJ144,97976,63308,940577
+EMP1793,Jacqueline Kramer,HR,Consultant,L1,2019-03-18,7.38,812917,High,1,2022-11-13,17,Bench,,67743,53152,1463250
+EMP1794,Lisa Green,Engineering,Consultant,L1,2024-09-21,1.86,980217,High,0,,7,Billed,PRJ119,81684,26390,1764390
+EMP1795,Amber Kirk,Finance,Analyst,L2,2023-10-13,2.8,996509,High,0,,15,Training,PRJ130,83042,57490,1793716
+EMP1796,Amanda Johnson,Finance,Senior Manager,L5,2020-05-25,6.19,699572,High,0,,27,Bench,,58297,72647,1259229
+EMP1797,Diana Arellano,Operations,Senior Analyst,L5,2026-02-19,0.44,1197612,Average,0,,34,Bench,,99801,156610,1556895
+EMP1798,Nicholas Tanner,Sales,Consultant,L4,2024-11-09,1.72,847512,High,0,,35,Bench,,70626,114088,1525521
+EMP1799,Kimberly Morales,Finance,Manager,L1,2026-04-18,0.28,673276,Low,0,,21,Bench,,56106,54379,538620
+EMP1800,Matthew Montgomery MD,Finance,Consultant,L4,2019-11-25,6.68,1060952,Average,0,,58,Bench,,88412,236673,1379237
+EMP1801,Matthew Solomon,Finance,Senior Analyst,L1,2024-10-25,1.76,630459,Average,0,,42,Bench,,52538,101843,819596
+EMP1802,Sara Garcia,Finance,Consultant,L2,2019-12-01,6.67,908454,Average,0,,35,Bench,,75704,122291,1180990
+EMP1803,David Harris,Consulting,Analyst,L5,2018-12-14,7.63,897264,Low,1,2024-07-26,1,Training,PRJ127,74772,3451,717811
+EMP1804,Mr. Thomas Davis,Consulting,Consultant,L5,2020-03-21,6.36,1225768,Average,0,,0,Training,PRJ122,102147,0,1593498
+EMP1805,Patrick Henderson,Sales,Consultant,L2,2018-08-12,7.97,1042409,High,0,,5,Training,PRJ117,86867,20046,1876336
+EMP1806,David Lee,Engineering,Manager,L4,2022-09-21,3.86,892491,Average,0,,27,Bench,,74374,92681,1160238
+EMP1807,Cameron Brown,Finance,Analyst,L4,2026-06-15,0.13,1145329,Low,0,,13,Training,PRJ116,95444,57266,916263
+EMP1808,Yvonne Mason,Operations,Analyst,L3,2020-05-03,6.25,1317062,High,0,,12,Billed,PRJ107,109755,60787,2370711
+EMP1809,Andrea Brennan,Engineering,Consultant,L1,2026-02-13,0.46,1067343,Average,0,,53,Bench,,88945,217573,1387545
+EMP1810,James Miller,Operations,Manager,L4,2022-05-29,4.18,903105,Average,0,,56,Bench,,75258,194514,1174036
+EMP1811,Wesley Lin,Engineering,Consultant,L2,2025-03-31,1.33,506449,Average,0,,59,Bench,,42204,114924,658383
+EMP1812,Wendy Taylor,Sales,Consultant,L4,2024-02-11,2.47,580465,Average,0,,9,Billed,PRJ120,48372,20093,754604
+EMP1813,Brett Sanchez,Finance,Senior Analyst,L5,2020-12-30,5.59,808432,Average,0,,29,Bench,,67369,90171,1050961
+EMP1814,Stephanie Maxwell,Finance,Senior Analyst,L1,2023-05-21,3.2,717146,High,0,,7,Billed,PRJ147,59762,19307,1290862
+EMP1815,Catherine Fisher,HR,Manager,L3,2020-08-10,5.98,843908,Average,0,,5,Billed,PRJ112,70325,16229,1097080
+EMP1816,Maria Ford,Operations,Senior Manager,L1,2018-11-29,7.67,916994,Average,0,,5,Billed,PRJ147,76416,17634,1192092
+EMP1817,Samuel Murphy,Engineering,Senior Analyst,L5,2021-11-22,4.69,1058907,High,0,,10,Training,PRJ117,88242,40727,1906032
+EMP1818,Brandy Myers,Engineering,Senior Manager,L5,2021-07-21,5.03,878850,Average,0,,14,Training,PRJ106,73237,47322,1142505
+EMP1819,Karen Davila,Consulting,Analyst,L5,2025-10-08,0.81,1045950,Low,1,2026-01-16,44,Bench,,87162,177006,836760
+EMP1820,James Mullins,HR,Senior Analyst,L5,2020-11-27,5.68,919342,Low,0,,3,Billed,PRJ118,76611,10607,735473
+EMP1821,Thomas Miller,Consulting,Senior Analyst,L2,2020-12-07,5.65,307360,Low,1,2024-10-02,33,Bench,,25613,39011,245888
+EMP1822,Frances Norton,Consulting,Manager,L3,2023-11-14,2.71,618199,Average,0,,18,Bench,,51516,42798,803658
+EMP1823,Theresa Shields,Consulting,Senior Manager,L5,2020-03-25,6.35,856773,Average,0,,8,Billed,PRJ123,71397,26362,1113804
+EMP1824,Xavier Lamb,Operations,Senior Analyst,L5,2022-03-18,4.37,537091,Low,0,,16,Bench,,44757,33051,429672
+EMP1825,David Wallace,Operations,Senior Analyst,L4,2024-07-21,2.03,1079978,High,1,2026-02-21,8,Billed,PRJ119,89998,33230,1943960
+EMP1826,Carrie Aguilar,Sales,Manager,L3,2025-07-07,1.07,1359225,Average,0,,22,Bench,,113268,115011,1766992
+EMP1827,Elizabeth Michael,Sales,Manager,L1,2026-06-27,0.09,1265628,Average,0,,14,Billed,PRJ145,105469,68149,1645316
+EMP1828,Amanda Cabrera,Consulting,Senior Manager,L3,2025-09-21,0.86,835967,Average,0,,4,Billed,PRJ117,69663,12861,1086757
+EMP1829,Zachary Ramos,HR,Analyst,L3,2018-09-03,7.91,1347217,Average,0,,3,Billed,PRJ103,112268,15544,1751382
+EMP1830,Christopher Mclean,Engineering,Analyst,L3,2022-12-14,3.63,944600,Low,0,,19,Bench,,78716,69028,755680
+EMP1831,Geoffrey Young,Operations,Consultant,L5,2021-02-09,5.47,798874,Average,0,,58,Bench,,66572,178210,1038536
+EMP1832,Jason Jefferson MD,HR,Senior Analyst,L5,2019-06-25,7.1,715979,High,0,,10,Training,PRJ144,59664,27537,1288762
+EMP1833,Brandon Gates,Finance,Senior Manager,L2,2020-03-11,6.39,809259,Average,0,,33,Bench,,67438,102713,1052036
+EMP1834,Diana Cook,Operations,Senior Analyst,L1,2021-09-25,4.85,783546,Average,0,,26,Bench,,65295,78354,1018609
+EMP1835,Danielle Carter,Operations,Senior Manager,L4,2020-12-09,5.64,951124,Average,0,,67,Bench,,79260,245097,1236461
+EMP1836,Joanne Weaver,Sales,Senior Manager,L3,2022-02-10,4.47,948172,Low,0,,43,Bench,,79014,156813,758537
+EMP1837,Jennifer Robinson,Engineering,Senior Manager,L1,2023-09-24,2.85,900913,Average,0,,20,Bench,,75076,69301,1171186
+EMP1838,Deborah Burke,Engineering,Senior Analyst,L1,2023-08-14,2.96,1031081,Average,0,,26,Bench,,85923,103108,1340405
+EMP1839,Christopher Ellis,Finance,Manager,L2,2024-03-30,2.34,1257193,Average,0,,57,Bench,,104766,275615,1634350
+EMP1840,Patricia Morrow,Finance,Senior Analyst,L4,2024-04-21,2.28,1184866,Low,0,,12,Billed,PRJ140,98738,54686,947892
+EMP1841,Laura Townsend,Operations,Senior Manager,L3,2023-05-26,3.18,454530,High,0,,9,Training,PRJ106,37877,15733,818154
+EMP1842,Corey Cook,Consulting,Consultant,L4,2019-06-12,7.14,300000,High,0,,0,Billed,PRJ136,25000,0,540000
+EMP1843,Shari Stark,Sales,Analyst,L2,2025-05-30,1.17,1180295,High,0,,43,Bench,,98357,195202,2124531
+EMP1844,Ashley Nielsen,Sales,Senior Manager,L5,2022-03-22,4.36,489936,High,0,,40,Bench,,40828,75374,881884
+EMP1845,Keith Lowe,Operations,Consultant,L1,2024-01-28,2.51,832570,Average,0,,2,Training,PRJ130,69380,6404,1082341
+EMP1846,Dustin Joseph,HR,Manager,L3,2026-02-09,0.47,548966,High,0,,21,Bench,,45747,44339,988138
+EMP1847,Mary Williams,Consulting,Senior Manager,L5,2019-11-30,6.67,359405,Average,0,,15,Training,PRJ128,29950,20734,467226
+EMP1848,April Thompson,Operations,Consultant,L2,2025-11-18,0.7,1062438,High,0,,3,Training,PRJ111,88536,12258,1912388
+EMP1849,Cynthia Walker,Consulting,Senior Manager,L4,2020-10-12,5.8,1127746,High,0,,98,Bench,,93978,425073,2029942
+EMP1850,Vicki Ferguson,Consulting,Senior Analyst,L1,2023-07-03,3.08,727046,Average,0,,6,Billed,PRJ116,60587,16777,945159
+EMP1851,Tammy Cannon,Consulting,Consultant,L3,2022-08-05,3.99,300000,High,1,2023-03-10,1,Training,PRJ107,25000,1153,540000
+EMP1852,Christopher Espinoza,Operations,Senior Analyst,L5,2021-10-18,4.79,736126,Average,0,,22,Bench,,61343,62287,956963
+EMP1853,Jessica Sanchez,Sales,Senior Analyst,L5,2021-07-19,5.04,1017541,Average,0,,33,Bench,,84795,129149,1322803
+EMP1854,Sabrina Day,Sales,Consultant,L1,2018-08-23,7.94,456326,Average,0,,0,Billed,PRJ125,38027,0,593223
+EMP1855,Jennifer Dalton,Consulting,Analyst,L4,2025-05-22,1.19,955007,Average,0,,26,Bench,,79583,95500,1241509
+EMP1856,Susan Levy,HR,Consultant,L2,2024-08-28,1.92,895407,Low,0,,18,Bench,,74617,61989,716325
+EMP1857,Jennifer Villanueva,Engineering,Analyst,L4,2018-12-17,7.62,1073787,Average,0,,2,Training,PRJ104,89482,8259,1395923
+EMP1858,Michael White,Operations,Senior Manager,L4,2025-10-05,0.82,935874,High,0,,4,Billed,PRJ109,77989,14398,1684573
+EMP1859,Mr. Andrew Evans,Engineering,Senior Manager,L4,2023-06-25,3.1,608079,Average,0,,20,Bench,,50673,46775,790502
+EMP1860,Edward Harris,HR,Consultant,L1,2020-12-31,5.58,1258971,High,0,,8,Billed,PRJ136,104914,38737,2266147
+EMP1861,James Garcia,Operations,Senior Manager,L1,2024-03-02,2.41,852441,High,0,,69,Bench,,71036,226224,1534393
+EMP1862,Zachary Fisher,Consulting,Manager,L2,2019-02-24,7.44,891808,High,1,2020-11-13,42,Bench,,74317,144061,1605254
+EMP1863,Meagan Johnson,Sales,Senior Analyst,L4,2025-08-13,0.96,620019,High,0,,102,Bench,,51668,243238,1116034
+EMP1864,William Hall,Engineering,Senior Analyst,L1,2021-10-23,4.77,767015,Average,0,,7,Training,PRJ105,63917,20650,997119
+EMP1865,Tyler Thompson,Finance,Analyst,L2,2022-12-15,3.63,634559,High,0,,87,Bench,,52879,212333,1142206
+EMP1866,Justin Drake,Finance,Senior Manager,L2,2023-03-27,3.35,848116,High,0,,14,Billed,PRJ107,70676,45667,1526608
+EMP1867,Dr. Melissa Green,HR,Analyst,L4,2019-05-31,7.17,1413512,Average,1,2025-07-22,10,Training,PRJ138,117792,54365,1837565
+EMP1868,Abigail Adams,Consulting,Senior Analyst,L3,2021-01-06,5.57,488429,Average,0,,1,Billed,PRJ149,40702,1878,634957
+EMP1869,Carl Rivera,Engineering,Senior Analyst,L4,2020-11-10,5.72,415931,Average,0,,1,Training,PRJ128,34660,1599,540710
+EMP1870,Jacob Khan,Consulting,Senior Manager,L3,2022-08-14,3.96,1341351,Average,0,,29,Bench,,111779,149612,1743756
+EMP1871,Edward Hawkins,Engineering,Manager,L2,2021-11-30,4.67,837202,Average,0,,15,Training,PRJ119,69766,48300,1088362
+EMP1872,Linda Edwards,HR,Manager,L1,2021-11-25,4.68,699278,Average,0,,6,Training,PRJ119,58273,16137,909061
+EMP1873,Colleen Jensen,HR,Senior Manager,L5,2024-04-09,2.31,1211971,Average,0,,23,Bench,,100997,107212,1575562
+EMP1874,Stephanie Melendez,Finance,Senior Manager,L2,2026-06-22,0.11,718315,Average,0,,7,Billed,PRJ139,59859,19339,933809
+EMP1875,James Mills,Consulting,Analyst,L1,2025-05-13,1.22,1447802,High,1,2026-01-17,21,Bench,,120650,116937,2606043
+EMP1876,John Cole,Operations,Senior Manager,L2,2020-11-05,5.74,1103377,Average,0,,11,Billed,PRJ148,91948,46681,1434390
+EMP1877,Judy Edwards,Finance,Manager,L4,2024-01-06,2.57,753626,Low,1,2026-03-09,43,Bench,,62802,124638,602900
+EMP1878,Erica Knight,Consulting,Senior Manager,L3,2021-11-21,4.69,1547192,Low,1,2026-02-15,42,Bench,,128932,249931,1237753
+EMP1879,Penny Hendricks,Finance,Analyst,L2,2022-09-11,3.89,718285,Average,0,,16,Bench,,59857,44202,933770
+EMP1880,Michael Castro,Operations,Analyst,L1,2022-01-25,4.52,1122628,High,0,,10,Billed,PRJ140,93552,43178,2020730
+EMP1881,Cheryl Cantu,Sales,Analyst,L4,2026-06-13,0.13,989787,Average,0,,11,Billed,PRJ116,82482,41875,1286723
+EMP1882,Ashley Love,Sales,Analyst,L5,2025-07-27,1.01,1290522,Average,0,,40,Bench,,107543,198541,1677678
+EMP1883,Debra Owens,Sales,Consultant,L4,2020-10-16,5.79,1368453,Average,0,,9,Billed,PRJ110,114037,47369,1778988
+EMP1884,Christina Neal,Sales,Senior Manager,L3,2020-11-07,5.73,909601,Average,0,,5,Billed,PRJ111,75800,17492,1182481
+EMP1885,Kevin Hayes Jr.,Engineering,Senior Analyst,L4,2018-10-16,7.79,673974,High,0,,2,Billed,PRJ110,56164,5184,1213153
+EMP1886,Donna Smith,Sales,Senior Manager,L5,2021-09-14,4.88,1037991,Average,0,,15,Billed,PRJ126,86499,59884,1349388
+EMP1887,Gregory Rivera,Operations,Consultant,L1,2022-05-18,4.21,696685,Low,0,,16,Bench,,58057,42872,557348
+EMP1888,Jill Burch,HR,Analyst,L2,2021-12-03,4.66,1504016,Average,0,,45,Bench,,125334,260310,1955220
+EMP1889,Tonya Bradford,HR,Consultant,L3,2019-04-10,7.31,940960,Low,0,,6,Training,PRJ144,78413,21714,752768
+EMP1890,Austin Mclean,Engineering,Manager,L5,2024-06-06,2.15,790403,Average,0,,11,Training,PRJ118,65866,33440,1027523
+EMP1891,Evan Johnson,Sales,Manager,L3,2019-09-17,6.87,955404,Average,0,,41,Bench,,79617,150659,1242025
+EMP1892,Michael Johnson,Sales,Senior Manager,L4,2026-01-03,0.57,495862,Low,0,,43,Bench,,41321,82007,396689
+EMP1893,Andrew Lee,Sales,Senior Manager,L3,2023-07-14,3.05,608515,Average,0,,12,Billed,PRJ114,50709,28085,791069
+EMP1894,Robert Lewis,Finance,Senior Analyst,L5,2023-03-18,3.37,1260124,Average,0,,15,Training,PRJ145,105010,72699,1638161
+EMP1895,Carolyn Knapp,Consulting,Senior Analyst,L2,2023-02-08,3.48,702931,High,0,,9,Training,PRJ144,58577,24332,1265275
+EMP1896,Cheryl May,Finance,Manager,L2,2024-12-05,1.65,585926,High,0,,67,Bench,,48827,150988,1054666
+EMP1897,John Hernandez MD,Consulting,Analyst,L3,2021-12-04,4.66,1060995,Low,0,,3,Training,PRJ104,88416,12242,848796
+EMP1898,Jesus Day,Sales,Consultant,L1,2024-12-07,1.65,1255711,High,0,,67,Bench,,104642,323587,2260279
+EMP1899,Beth Nguyen,Sales,Senior Analyst,L3,2022-07-15,4.05,1115685,Average,0,,28,Bench,,92973,120150,1450390
+EMP1900,Brittany Pittman,Finance,Senior Analyst,L4,2025-07-04,1.07,1198814,Average,1,2025-08-04,18,Bench,,99901,82994,1558458
+EMP1901,Tony Sutton,Finance,Analyst,L2,2019-05-24,7.19,672961,High,1,2019-11-10,0,Billed,PRJ116,56080,0,1211329
+EMP1902,Ryan Haney,Consulting,Analyst,L2,2019-07-19,7.04,473456,High,0,,16,Bench,,39454,29135,852220
+EMP1903,Shelly Rivera,HR,Senior Manager,L2,2022-05-18,4.21,1350400,High,0,,13,Billed,PRJ127,112533,67520,2430720
+EMP1904,Chelsea Day,Consulting,Consultant,L1,2023-07-04,3.08,803196,Average,0,,4,Billed,PRJ134,66933,12356,1044154
+EMP1905,Scott Dougherty,Finance,Analyst,L1,2024-04-30,2.25,824750,Average,0,,26,Bench,,68729,82475,1072175
+EMP1906,Christine Murphy,Operations,Senior Analyst,L5,2019-01-01,7.58,1298458,High,1,2020-09-30,88,Bench,,108204,439478,2337224
+EMP1907,Brandi Davis,Finance,Senior Analyst,L3,2024-05-22,2.19,1066869,Average,0,,20,Bench,,88905,82066,1386929
+EMP1908,Angela Mullins,Operations,Manager,L3,2020-01-02,6.58,1036766,Average,0,,31,Bench,,86397,123614,1347795
+EMP1909,Amy Mccann,Engineering,Analyst,L4,2024-12-28,1.59,1549500,Average,0,,1,Billed,PRJ141,129125,5959,2014350
+EMP1910,Gregory Cruz,Finance,Senior Manager,L2,2023-04-09,3.31,706944,Average,1,2025-08-06,13,Billed,PRJ117,58912,35347,919027
+EMP1911,Tyler Allen,Engineering,Consultant,L1,2023-05-24,3.19,1178352,Average,0,,3,Billed,PRJ104,98196,13596,1531857
+EMP1912,Matthew Preston,HR,Senior Manager,L4,2019-10-05,6.82,917103,Average,0,,23,Bench,,76425,81128,1192233
+EMP1913,Andrea Nelson,Consulting,Senior Analyst,L4,2025-12-13,0.63,980577,High,0,,69,Bench,,81714,260230,1765038
+EMP1914,Brian Brown,Operations,Senior Manager,L1,2019-07-11,7.06,1358540,Low,0,,27,Bench,,113211,141079,1086832
+EMP1915,Jennifer Stevenson,Consulting,Senior Analyst,L3,2021-07-24,5.02,1052350,Average,0,,1,Billed,PRJ110,87695,4047,1368055
+EMP1916,Michael Hale,Engineering,Senior Analyst,L2,2025-05-23,1.19,1061488,Average,0,,10,Training,PRJ138,88457,40826,1379934
+EMP1917,Kristi Guerrero,Operations,Senior Analyst,L3,2019-07-07,7.07,1221752,Low,1,2024-05-30,19,Bench,,101812,89281,977401
+EMP1918,David Davis,Consulting,Senior Analyst,L4,2024-07-06,2.07,790514,Low,1,2026-07-12,12,Training,PRJ128,65876,36485,632411
+EMP1919,Mr. Vincent Ellis PhD,Finance,Senior Analyst,L2,2022-10-07,3.82,648237,Average,0,,44,Bench,,54019,109701,842708
+EMP1920,Michael Porter,Sales,Manager,L5,2019-03-28,7.35,586557,High,0,,42,Bench,,48879,94751,1055802
+EMP1921,Brett Williams,Engineering,Senior Manager,L4,2020-06-29,6.09,310093,Average,0,,23,Bench,,25841,27431,403120
+EMP1922,Lindsay Romero,Consulting,Manager,L3,2022-01-31,4.5,1516862,High,0,,11,Billed,PRJ129,126405,64174,2730351
+EMP1923,John Lewis,Engineering,Manager,L3,2026-04-09,0.31,569037,Average,0,,7,Training,PRJ144,47419,15320,739748
+EMP1924,Isaiah Harris,Engineering,Analyst,L3,2018-11-24,7.69,833623,Average,0,,2,Training,PRJ117,69468,6412,1083709
+EMP1925,David Black,Operations,Analyst,L1,2023-09-21,2.86,816956,Average,0,,10,Training,PRJ128,68079,31421,1062042
+EMP1926,Michelle Daniels,Operations,Analyst,L4,2021-10-22,4.78,992222,Average,0,,13,Billed,PRJ138,82685,49611,1289888
+EMP1927,Diana Foster,Sales,Consultant,L2,2019-03-25,7.36,1144721,High,0,,28,Bench,,95393,123277,2060497
+EMP1928,Julie Blair,Finance,Analyst,L3,2023-12-20,2.61,1158142,Average,0,,26,Bench,,96511,115814,1505584
+EMP1929,Kellie Wagner,Engineering,Senior Manager,L3,2021-06-16,5.13,725076,Average,0,,1,Billed,PRJ127,60423,2788,942598
+EMP1930,Robert Knapp,Consulting,Manager,L1,2019-08-13,6.97,849863,High,0,,12,Training,PRJ138,70821,39224,1529753
+EMP1931,Dustin Cowan,HR,Senior Manager,L2,2019-04-15,7.3,984773,High,0,,5,Training,PRJ101,82064,18937,1772591
+EMP1932,Tami Fisher,Engineering,Analyst,L4,2018-12-12,7.64,825392,High,0,,4,Billed,PRJ114,68782,12698,1485705
+EMP1933,Heather Turner,Engineering,Consultant,L5,2018-09-17,7.87,1382203,Average,0,,43,Bench,,115183,228595,1796863
+EMP1934,William Moss,Sales,Consultant,L1,2019-10-29,6.76,1047292,High,0,,1,Billed,PRJ148,87274,4028,1885125
+EMP1935,Rebecca Davis,Finance,Manager,L4,2024-12-16,1.62,1120463,Average,0,,13,Training,PRJ136,93371,56023,1456601
+EMP1936,Andre Ballard,HR,Senior Manager,L5,2023-05-03,3.25,1098864,Average,0,,4,Billed,PRJ148,91572,16905,1428523
+EMP1937,Kayla Smith,Operations,Senior Analyst,L3,2021-12-03,4.66,1252042,Average,0,,52,Bench,,104336,250408,1627654
+EMP1938,Marie Turner,Operations,Senior Manager,L3,2019-08-17,6.96,954306,Average,0,,20,Bench,,79525,73408,1240597
+EMP1939,Robert Moody,Consulting,Analyst,L2,2019-02-24,7.44,510950,Average,0,,6,Billed,PRJ130,42579,11791,664235
+EMP1940,Kimberly Clark,HR,Senior Analyst,L5,2019-10-21,6.78,1019906,Average,0,,17,Bench,,84992,66686,1325877
+EMP1941,Victoria Lara,Operations,Consultant,L3,2021-12-08,4.65,704592,High,0,,32,Bench,,58716,86719,1268265
+EMP1942,Yvonne Gibson,Consulting,Manager,L3,2019-03-25,7.36,741414,Average,0,,79,Bench,,61784,225275,963838
+EMP1943,Nichole Martinez,Finance,Manager,L2,2026-04-13,0.3,1075909,Low,0,,6,Training,PRJ117,89659,24828,860727
+EMP1944,Jeremy Torres,Consulting,Consultant,L4,2023-10-25,2.77,1271484,Low,0,,54,Bench,,105957,264077,1017187
+EMP1945,Mrs. Amber Allen,Operations,Analyst,L3,2025-12-16,0.62,906381,High,1,2026-07-15,68,Bench,,75531,237053,1631485
+EMP1946,Theresa Lewis,Sales,Consultant,L1,2026-04-05,0.32,992649,Average,0,,62,Bench,,82720,236708,1290443
+EMP1947,Craig Thomas,Sales,Analyst,L1,2022-01-05,4.57,1410664,Average,0,,25,Bench,,117555,135640,1833863
+EMP1948,Travis Romero,Sales,Senior Analyst,L4,2021-09-25,4.85,972225,High,0,,24,Bench,,81018,89743,1750005
+EMP1949,Brian Giles,Operations,Consultant,L5,2025-08-14,0.96,1680504,High,0,,12,Billed,PRJ137,140042,77561,3024907
+EMP1950,Joshua Cohen,Sales,Analyst,L2,2023-10-28,2.76,1069652,Average,0,,34,Bench,,89137,139877,1390547
+EMP1951,Ricky Mendoza,HR,Senior Analyst,L1,2023-10-08,2.81,371771,Average,0,,18,Bench,,30980,25737,483302
+EMP1952,Joe Vega,Finance,Consultant,L1,2018-12-25,7.6,1126002,High,0,,28,Bench,,93833,121261,2026803
+EMP1953,David Watson,Consulting,Manager,L4,2021-11-26,4.68,1014347,Average,0,,13,Training,PRJ140,84528,50717,1318651
+EMP1954,Jeffrey Schneider,Consulting,Consultant,L5,2022-03-25,4.35,1286925,Average,0,,32,Bench,,107243,158390,1673002
+EMP1955,Megan Bennett,Operations,Senior Manager,L5,2025-03-05,1.41,1101954,High,0,,43,Bench,,91829,182246,1983517
+EMP1956,Melinda Snyder,Sales,Consultant,L4,2022-01-04,4.57,858463,Average,0,,3,Training,PRJ105,71538,9905,1116001
+EMP1957,Michael Fisher,Sales,Senior Manager,L1,2021-02-23,5.44,532710,Average,0,,44,Bench,,44392,90150,692523
+EMP1958,Mark Johnston,Engineering,Senior Analyst,L2,2022-04-04,4.33,837293,Average,0,,19,Bench,,69774,61186,1088480
+EMP1959,Shelly Davis,Finance,Consultant,L1,2019-12-14,6.63,644843,Low,1,2026-06-13,46,Bench,,53736,114087,515874
+EMP1960,Krista Jones,HR,Senior Analyst,L5,2018-10-23,7.78,725842,Low,0,,14,Training,PRJ122,60486,39083,580673
+EMP1961,Riley Daniel,Consulting,Senior Analyst,L1,2024-05-15,2.21,1076573,High,0,,11,Training,PRJ121,89714,45547,1937831
+EMP1962,Diana Cain,Engineering,Analyst,L2,2022-03-24,4.36,1400971,Low,0,,61,Bench,,116747,328689,1120776
+EMP1963,Toni Herrera,Engineering,Senior Analyst,L3,2019-06-15,7.13,1018401,Average,0,,7,Training,PRJ142,84866,27418,1323921
+EMP1964,Alan Coleman,Operations,Senior Analyst,L1,2020-12-13,5.63,541235,Average,1,2021-06-30,46,Bench,,45102,95756,703605
+EMP1965,Michael Phillips,Consulting,Consultant,L4,2020-04-15,6.3,1033380,Low,0,,16,Bench,,86115,63592,826704
+EMP1966,Whitney Hopkins,Operations,Consultant,L3,2024-02-18,2.45,1258989,High,1,2024-12-09,18,Bench,,104915,87160,2266180
+EMP1967,Gail Roberts,HR,Manager,L4,2020-12-30,5.59,717065,Average,0,,9,Billed,PRJ110,59755,24821,932184
+EMP1968,John Fields,Engineering,Analyst,L4,2024-07-04,2.07,859794,Average,0,,21,Bench,,71649,69444,1117732
+EMP1969,Evan Jones,Engineering,Senior Analyst,L4,2020-09-29,5.84,904406,Average,0,,9,Training,PRJ126,75367,31306,1175727
+EMP1970,Bryan Oneal,Finance,Analyst,L1,2024-06-07,2.15,664530,Average,0,,1,Training,PRJ118,55377,2555,863889
+EMP1971,Michelle Ellison,HR,Senior Manager,L5,2025-01-19,1.53,1094484,Low,0,,7,Training,PRJ148,91207,29466,875587
+EMP1972,Tiffany Sosa,Engineering,Senior Analyst,L3,2021-07-16,5.04,863715,Average,0,,0,Billed,PRJ129,71976,0,1122829
+EMP1973,Barbara Richardson,HR,Analyst,L2,2020-06-02,6.16,1025859,High,0,,95,Bench,,85488,374833,1846546
+EMP1974,Michael Walker,Consulting,Manager,L5,2024-09-17,1.87,633752,Average,0,,84,Bench,,52812,204750,823877
+EMP1975,Daniel Jones MD,Sales,Manager,L1,2022-06-11,4.14,768762,Average,0,,12,Billed,PRJ120,64063,35481,999390
+EMP1976,Brandon Henderson,Engineering,Senior Analyst,L4,2022-11-16,3.71,1116714,Average,0,,32,Bench,,93059,137441,1451728
+EMP1977,Jonathan Malone,Finance,Senior Manager,L2,2026-05-03,0.24,788150,High,0,,10,Training,PRJ120,65679,30313,1418670
+EMP1978,John Davis,Consulting,Manager,L3,2018-11-27,7.68,1418089,Average,0,,27,Bench,,118174,147263,1843515
+EMP1979,Kelly Ray,HR,Manager,L5,2023-03-25,3.35,780109,Average,0,,40,Bench,,65009,120016,1014141
+EMP1980,William Stevens,Operations,Senior Manager,L5,2025-10-21,0.78,967405,Average,1,2026-03-31,73,Bench,,80617,271617,1257626
+EMP1981,Charlene Strong,Consulting,Analyst,L2,2020-04-11,6.31,1179777,Average,0,,12,Billed,PRJ149,98314,54451,1533710
+EMP1982,Crystal Hall,Engineering,Manager,L1,2018-12-20,7.62,474490,High,0,,38,Bench,,39540,69348,854082
+EMP1983,Dr. Rebecca Bowman,HR,Consultant,L3,2022-01-23,4.52,371757,Average,0,,7,Training,PRJ132,30979,10008,483284
+EMP1984,Anna Castillo,Sales,Manager,L2,2024-12-07,1.65,442303,Average,0,,115,Bench,,36858,195634,574993
+EMP1985,William Jackson,Consulting,Analyst,L4,2025-04-06,1.32,1278775,High,0,,0,Billed,PRJ142,106564,0,2301795
+EMP1986,Denise Mann,Engineering,Analyst,L3,2018-09-28,7.84,734442,High,0,,23,Bench,,61203,64969,1321995
+EMP1987,Douglas Friedman,Finance,Senior Analyst,L5,2023-01-19,3.53,1667459,High,0,,26,Bench,,138954,166745,3001426
+EMP1988,Jordan Banks,Operations,Consultant,L2,2020-07-09,6.06,730725,High,0,,29,Bench,,60893,81503,1315305
+EMP1989,Randy Payne,HR,Analyst,L5,2020-07-18,6.04,955365,Average,0,,3,Training,PRJ126,79613,11023,1241974
+EMP1990,Cheryl Cuevas MD,Consulting,Senior Manager,L5,2021-10-08,4.81,1362632,Average,0,,69,Bench,,113552,361621,1771421
+EMP1991,Laura Wallace MD,Consulting,Consultant,L5,2021-11-19,4.7,1501827,Average,0,,4,Billed,PRJ112,125152,23105,1952375
+EMP1992,Barbara Johnson,Sales,Consultant,L1,2020-03-24,6.36,1518451,Low,1,2023-01-14,24,Bench,,126537,140164,1214760
+EMP1993,Christopher Frederick,Sales,Senior Manager,L5,2025-07-23,1.02,1262509,Average,0,,6,Training,PRJ139,105209,29134,1641261
+EMP1994,Nicholas Durham,Finance,Manager,L4,2018-11-25,7.68,1207218,Average,0,,9,Training,PRJ140,100601,41788,1569383
+EMP1995,Bradley Torres,Operations,Senior Manager,L4,2022-07-08,4.07,1077758,Average,0,,19,Bench,,89813,78759,1401085
+EMP1996,Dr. Sandra Holmes,Finance,Senior Manager,L3,2021-08-31,4.92,1133508,High,0,,13,Training,PRJ148,94459,56675,2040314
+EMP1997,Jose Black,Engineering,Manager,L5,2021-09-21,4.86,734644,Average,0,,4,Billed,PRJ113,61220,11302,955037
+EMP1998,Austin Williams,Engineering,Manager,L5,2024-02-28,2.42,654540,High,0,,4,Training,PRJ135,54545,10069,1178172
+EMP1999,Tiffany Rodriguez,Finance,Manager,L2,2022-05-27,4.18,898987,Low,1,2024-02-09,13,Billed,PRJ118,74915,44949,719189
