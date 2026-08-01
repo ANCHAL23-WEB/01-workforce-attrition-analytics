@@ -4,6 +4,8 @@ An end-to-end people-analytics project that predicts employee attrition risk, qu
 
 ![Dashboard Overview](images/dashboard_overview.png)
 
+**[Try the Live Interactive App →](https://01-workforce-attrition-analytics-qvzzylzdmpxaqzr2squqtf.streamlit.app)**
+
 ## Business Problem
 Employee attrition and idle "bench" time are two of the most expensive, least visible costs in IT-services organizations. Replacing an employee typically costs a significant fraction of their annual salary, and unassigned bench time generates cost without generating revenue. This project builds a system to anticipate attrition and act on it early, with a dollar-and-cents lens instead of a purely descriptive one.
 
@@ -97,6 +99,10 @@ All 4 core queries (attrition by department, bench cost by department, impact sc
 - [Business Problem](docs/business_problem.md)
 - [Data Benchmarking Note](docs/data_benchmarking_note.md)
 - [Executive Summary](docs/executive_summary.md)
+
+## Live App
+A Streamlit app is deployed for interactive, no-install exploration: department comparisons, a live attrition-risk predictor, and the full filterable decision layer table.
+**[Launch the app →](https://01-workforce-attrition-analytics-qvzzylzdmpxaqzr2squqtf.streamlit.app)**
 
 ## Dashboard
 The interactive Tableau dashboard file is available in [`dashboard/`](dashboard/) — open with Tableau Desktop or Tableau Public (free) to explore live.
